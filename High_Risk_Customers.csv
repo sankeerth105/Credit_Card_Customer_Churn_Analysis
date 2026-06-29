@@ -1,0 +1,522 @@
+CLIENTNUM,Attrition_Flag,Customer_Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Trans_Ct,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio,Churn,Age_Group
+769911858,Existing Customer,40,F,4,High School,Unknown,Less than $40K,Blue,34,3,4,1,3313.0,2517,796.0,1.405,1171,20,2.333,0.76,0,31-40
+710599683,Existing Customer,56,M,1,College,Single,$80K - $120K,Blue,36,3,6,0,11751.0,0,11751.0,3.397,1539,17,3.25,0.0,0,51-60
+708508758,Attrited Customer,62,F,0,Graduate,Married,Less than $40K,Blue,49,2,3,3,1438.3,0,1438.3,1.047,692,16,0.6,0.0,1,61-75
+811604133,Existing Customer,47,F,4,Unknown,Single,Less than $40K,Blue,36,3,3,2,2492.0,1560,932.0,0.573,1126,23,0.353,0.626,0,41-50
+804424383,Existing Customer,63,M,1,Unknown,Married,$60K - $80K,Blue,56,3,3,2,10215.0,1010,9205.0,0.843,1904,40,1.0,0.099,0,61-75
+712991808,Existing Customer,53,M,2,Uneducated,Married,$60K - $80K,Blue,48,2,5,1,2451.0,1690,761.0,1.323,1596,26,1.6,0.69,0,51-60
+785432733,Existing Customer,42,F,4,High School,Married,Less than $40K,Gold,36,2,3,3,15433.0,0,15433.0,0.865,966,22,1.2,0.0,0,41-50
+715190283,Existing Customer,57,F,1,Graduate,Unknown,$40K - $60K,Blue,49,3,3,2,3672.0,886,2786.0,1.32,1464,28,0.556,0.241,0,51-60
+720572508,Existing Customer,38,F,4,Graduate,Single,Unknown,Blue,28,2,3,3,9830.0,2055,7775.0,0.977,1042,23,0.917,0.209,0,31-40
+779471883,Attrited Customer,54,F,1,Graduate,Married,Less than $40K,Blue,40,2,3,1,1438.3,808,630.3,0.997,705,19,0.9,0.562,1,51-60
+711525033,Existing Customer,66,F,0,High School,Married,Less than $40K,Blue,54,3,4,2,3171.0,2179,992.0,1.224,1946,38,1.923,0.687,0,61-75
+714374133,Attrited Customer,56,M,2,Graduate,Married,$120K +,Blue,36,1,3,3,15769.0,0,15769.0,1.041,602,15,0.364,0.0,1,51-60
+712030833,Attrited Customer,48,M,2,Graduate,Married,$60K - $80K,Silver,35,2,4,4,34516.0,0,34516.0,0.763,691,15,0.5,0.0,1,41-50
+710082708,Existing Customer,44,M,4,Post-Graduate,Single,$120K +,Blue,32,2,4,2,23957.0,2102,21855.0,0.997,1276,26,0.733,0.088,0,41-50
+789973308,Existing Customer,44,M,1,College,Single,$60K - $80K,Blue,35,3,3,3,24312.0,1932,22380.0,1.312,1341,24,1.182,0.079,0,41-50
+711013983,Attrited Customer,55,F,4,Unknown,Married,$40K - $60K,Blue,45,2,4,3,2158.0,0,2158.0,0.585,615,12,0.714,0.0,1,51-60
+755420433,Existing Customer,59,F,1,Graduate,Married,Unknown,Blue,52,2,3,3,10133.0,1417,8716.0,0.383,1068,20,0.818,0.14,0,51-60
+711887583,Attrited Customer,47,M,2,Unknown,Married,$80K - $120K,Blue,37,2,3,3,5449.0,1628,3821.0,0.696,836,18,0.385,0.299,1,41-50
+721091583,Existing Customer,44,F,2,Graduate,Single,Less than $40K,Blue,32,3,3,3,3031.0,1879,1152.0,0.788,1298,15,1.5,0.62,0,41-50
+713572683,Existing Customer,44,M,3,High School,Unknown,$60K - $80K,Blue,25,3,3,0,1862.0,0,1862.0,0.883,1226,34,0.789,0.0,0,41-50
+716657058,Existing Customer,43,F,4,Post-Graduate,Married,Less than $40K,Blue,33,2,3,3,8358.0,926,7432.0,0.762,1566,37,0.542,0.111,0,41-50
+771075258,Existing Customer,55,M,2,College,Single,$120K +,Silver,42,2,3,2,34516.0,1527,32989.0,0.526,1268,42,0.355,0.044,0,51-60
+720201033,Attrited Customer,53,M,2,Graduate,Married,$80K - $120K,Blue,41,3,3,2,11669.0,2227,9442.0,0.622,720,23,0.353,0.191,1,51-60
+789322833,Attrited Customer,48,F,5,High School,Married,Less than $40K,Blue,38,1,3,3,8025.0,0,8025.0,0.654,673,18,0.8,0.0,1,41-50
+709919283,Existing Customer,54,M,4,Graduate,Married,$80K - $120K,Blue,34,2,3,2,14926.0,2517,12409.0,1.996,1576,25,1.5,0.169,0,51-60
+767712558,Attrited Customer,59,M,1,College,Single,$60K - $80K,Blue,53,2,3,3,14979.0,0,14979.0,0.71,530,10,1.0,0.0,1,51-60
+713786508,Existing Customer,42,F,5,Unknown,Married,$40K - $60K,Blue,36,3,3,3,2038.0,0,2038.0,0.786,1238,28,0.75,0.0,0,41-50
+718803333,Existing Customer,43,F,4,Graduate,Divorced,Less than $40K,Blue,34,2,3,1,3195.0,1954,1241.0,0.971,1285,29,0.706,0.612,0,41-50
+714133158,Existing Customer,59,F,1,College,Single,Unknown,Blue,36,2,3,3,4224.0,1305,2919.0,0.852,1152,31,0.824,0.309,0,51-60
+715827858,Existing Customer,58,F,4,Uneducated,Married,Less than $40K,Blue,47,3,3,3,2822.0,2173,649.0,1.456,1218,23,2.286,0.77,0,51-60
+712375758,Existing Customer,53,M,3,Uneducated,Married,$80K - $120K,Blue,43,3,3,1,16393.0,1423,14970.0,1.642,1461,42,0.75,0.087,0,51-60
+708868233,Attrited Customer,68,M,0,High School,Married,Less than $40K,Blue,52,1,3,2,1438.3,900,538.3,0.743,760,21,0.615,0.626,1,61-75
+719808558,Attrited Customer,55,F,2,Graduate,Married,Less than $40K,Blue,43,2,4,3,1438.3,0,1438.3,0.707,886,27,0.421,0.0,1,51-60
+711551958,Attrited Customer,59,M,2,Post-Graduate,Married,$60K - $80K,Blue,46,3,3,3,1438.3,0,1438.3,0.688,844,24,0.5,0.0,1,51-60
+708711483,Existing Customer,57,M,2,Unknown,Married,$80K - $120K,Blue,46,2,3,0,18871.0,1740,17131.0,1.727,1516,21,2.0,0.092,0,51-60
+720997383,Attrited Customer,52,M,1,Uneducated,Married,$80K - $120K,Blue,36,2,3,3,1857.0,1833,24.0,0.723,829,17,0.7,0.987,1,51-60
+787541883,Existing Customer,44,M,3,Graduate,Unknown,$80K - $120K,Blue,33,3,3,3,34516.0,0,34516.0,0.483,1120,27,0.35,0.0,0,41-50
+710299608,Attrited Customer,53,F,2,Unknown,Married,Less than $40K,Blue,33,2,3,3,2859.0,2517,342.0,0.993,817,30,0.667,0.88,1,51-60
+708874533,Attrited Customer,45,F,2,College,Married,Less than $40K,Blue,36,1,3,2,3387.0,0,3387.0,0.789,510,24,0.6,0.0,1,41-50
+712125258,Attrited Customer,46,M,4,High School,Married,$120K +,Blue,30,3,3,3,2442.0,0,2442.0,0.98,701,19,0.727,0.0,1,41-50
+772390908,Attrited Customer,59,M,0,High School,Single,$40K - $60K,Blue,48,2,4,3,3616.0,1054,2562.0,0.616,687,17,0.545,0.291,1,51-60
+714187533,Existing Customer,45,F,2,Uneducated,Single,$40K - $60K,Blue,35,2,3,0,3540.0,849,2691.0,0.456,1321,28,0.75,0.24,0,41-50
+778867533,Attrited Customer,59,F,0,Post-Graduate,Married,$40K - $60K,Blue,40,1,4,1,1438.3,0,1438.3,1.038,689,23,0.353,0.0,1,51-60
+778661358,Existing Customer,46,F,1,Unknown,Married,Less than $40K,Blue,36,2,3,2,2474.0,2143,331.0,1.53,1541,40,1.0,0.866,0,41-50
+771809733,Attrited Customer,64,F,0,High School,Married,$40K - $60K,Blue,53,1,3,3,3353.0,0,3353.0,1.021,960,18,0.385,0.0,1,61-75
+719942883,Existing Customer,54,M,5,Graduate,Married,$60K - $80K,Blue,38,3,3,3,2290.0,1434,856.0,0.923,1119,18,3.5,0.626,0,51-60
+718621608,Attrited Customer,54,F,2,High School,Married,Unknown,Blue,44,3,3,1,6094.0,0,6094.0,1.129,909,14,0.273,0.0,1,51-60
+720272958,Attrited Customer,48,M,2,High School,Married,$120K +,Blue,36,3,3,3,27126.0,0,27126.0,0.953,1000,25,0.786,0.0,1,41-50
+715120608,Existing Customer,44,M,3,Graduate,Single,$60K - $80K,Blue,37,2,3,2,14546.0,1703,12843.0,0.955,1273,27,0.588,0.117,0,41-50
+770632758,Existing Customer,50,F,4,Doctorate,Single,Unknown,Blue,36,2,3,2,2521.0,1608,913.0,0.587,1328,33,0.571,0.638,0,41-50
+779078733,Existing Customer,55,M,2,Doctorate,Married,$60K - $80K,Blue,36,3,4,3,16427.0,1682,14745.0,0.631,1579,36,1.118,0.102,0,51-60
+789562383,Existing Customer,38,F,1,High School,Unknown,Less than $40K,Blue,30,2,3,0,1438.3,583,855.3,0.888,1259,24,1.0,0.405,0,31-40
+754897008,Existing Customer,46,M,3,High School,Single,$40K - $60K,Blue,39,2,3,2,9432.0,1418,8014.0,0.612,1319,26,0.368,0.15,0,41-50
+721509558,Existing Customer,51,M,2,Graduate,Married,$120K +,Blue,42,3,3,0,24221.0,1707,22514.0,0.816,1678,40,0.538,0.07,0,51-60
+721425558,Existing Customer,52,M,2,Graduate,Single,$120K +,Blue,37,2,3,2,14543.0,0,14543.0,0.788,1536,37,0.423,0.0,0,51-60
+708330858,Attrited Customer,57,M,3,Graduate,Married,$120K +,Blue,38,2,3,3,8249.0,1381,6868.0,0.798,678,11,0.833,0.167,1,51-60
+714426783,Existing Customer,38,F,2,Graduate,Single,Unknown,Blue,31,2,3,2,14041.0,2154,11887.0,1.084,1467,29,1.417,0.153,0,31-40
+720214833,Existing Customer,52,M,2,High School,Single,$80K - $120K,Silver,40,3,3,3,34516.0,2177,32339.0,1.32,1234,23,1.875,0.063,0,51-60
+709346133,Existing Customer,55,F,2,Uneducated,Married,Unknown,Blue,35,3,3,0,3025.0,2376,649.0,1.252,1277,23,1.875,0.785,0,51-60
+717424458,Existing Customer,44,F,2,Post-Graduate,Married,Less than $40K,Blue,36,3,3,2,2293.0,1823,470.0,0.617,1166,22,1.444,0.795,0,41-50
+714871683,Attrited Customer,58,M,1,Uneducated,Married,$40K - $60K,Blue,36,2,4,3,1438.3,537,901.3,0.819,715,13,0.182,0.373,1,51-60
+828281733,Existing Customer,43,M,4,Unknown,Married,$120K +,Blue,39,3,3,3,14881.0,848,14033.0,0.762,1408,23,1.091,0.057,0,41-50
+719091333,Existing Customer,52,M,0,Uneducated,Married,$60K - $80K,Blue,36,3,3,2,22720.0,793,21927.0,0.685,1102,27,0.286,0.035,0,51-60
+714363858,Existing Customer,54,F,4,High School,Married,Less than $40K,Blue,36,3,5,3,1594.0,1411,183.0,0.817,1459,35,1.188,0.885,0,51-60
+708288108,Attrited Customer,43,M,4,Post-Graduate,Unknown,$80K - $120K,Blue,30,2,5,3,5639.0,1547,4092.0,1.087,647,15,0.364,0.274,1,41-50
+715585158,Existing Customer,58,M,1,Graduate,Married,$60K - $80K,Blue,46,3,3,2,10021.0,1617,8404.0,0.578,1275,25,0.667,0.161,0,51-60
+821837958,Existing Customer,43,M,3,College,Unknown,$80K - $120K,Blue,39,3,3,1,24850.0,1662,23188.0,0.693,1226,25,0.923,0.067,0,41-50
+717354558,Attrited Customer,57,M,2,Uneducated,Married,$120K +,Blue,40,3,3,3,3106.0,1120,1986.0,1.045,683,17,0.7,0.361,1,51-60
+798473808,Existing Customer,48,M,3,College,Married,$80K - $120K,Blue,42,3,3,0,7477.0,0,7477.0,0.511,1159,32,0.684,0.0,0,41-50
+714639783,Attrited Customer,42,M,3,College,Married,$60K - $80K,Blue,34,3,3,3,13450.0,0,13450.0,0.742,1000,18,0.059,0.0,1,41-50
+778868958,Attrited Customer,42,F,2,Graduate,Married,Less than $40K,Blue,23,3,3,3,1929.0,1673,256.0,0.835,857,36,1.118,0.867,1,41-50
+717276708,Existing Customer,57,M,2,Unknown,Single,$80K - $120K,Blue,36,3,3,2,3127.0,2517,610.0,0.589,1470,30,1.143,0.805,0,51-60
+710004933,Existing Customer,44,M,5,Uneducated,Married,$60K - $80K,Blue,36,3,3,2,8645.0,1454,7191.0,0.708,1435,25,1.778,0.168,0,41-50
+712159083,Attrited Customer,58,F,4,Unknown,Married,Less than $40K,Blue,46,2,3,3,2536.0,0,2536.0,0.917,901,35,0.522,0.0,1,51-60
+711089733,Existing Customer,50,F,2,College,Divorced,Less than $40K,Blue,36,3,3,0,1491.0,0,1491.0,0.876,1058,34,0.889,0.0,0,41-50
+767695083,Existing Customer,50,M,2,Graduate,Married,$80K - $120K,Blue,44,3,3,0,4589.0,0,4589.0,0.845,1590,37,0.37,0.0,0,41-50
+718349058,Existing Customer,49,M,3,High School,Married,$80K - $120K,Blue,39,3,3,2,29659.0,1143,28516.0,0.512,1193,21,0.615,0.039,0,41-50
+789842283,Attrited Customer,54,M,2,Graduate,Married,$60K - $80K,Blue,42,3,3,2,4320.0,0,4320.0,0.967,706,21,0.5,0.0,1,51-60
+719418933,Attrited Customer,53,M,2,Uneducated,Married,$80K - $120K,Blue,36,1,3,3,4503.0,0,4503.0,0.659,748,20,0.429,0.0,1,51-60
+714272658,Attrited Customer,43,F,2,Uneducated,Single,Less than $40K,Blue,24,2,3,2,2962.0,2517,445.0,1.046,929,31,0.409,0.85,1,41-50
+708241233,Attrited Customer,52,F,3,Post-Graduate,Single,Less than $40K,Blue,47,3,3,2,2972.0,0,2972.0,1.035,922,25,0.562,0.0,1,51-60
+714893733,Existing Customer,55,M,1,High School,Married,$80K - $120K,Blue,45,3,3,3,16794.0,809,15985.0,1.566,1917,33,0.941,0.048,0,51-60
+716223708,Attrited Customer,45,F,3,Uneducated,Single,Unknown,Blue,36,3,3,3,4028.0,710,3318.0,0.731,791,22,0.833,0.176,1,41-50
+710202783,Existing Customer,33,M,2,Graduate,Married,$60K - $80K,Blue,13,3,3,3,1963.0,1721,242.0,0.68,1378,37,0.762,0.877,0,31-40
+779610033,Attrited Customer,58,M,1,College,Married,$80K - $120K,Blue,47,3,3,3,12151.0,1799,10352.0,1.022,918,14,0.556,0.148,1,51-60
+721417233,Attrited Customer,45,M,2,Graduate,Married,$60K - $80K,Blue,25,3,5,3,1438.3,0,1438.3,0.676,709,27,0.421,0.0,1,41-50
+717643608,Existing Customer,48,M,4,College,Married,$80K - $120K,Blue,36,3,3,2,26443.0,1601,24842.0,0.493,1593,36,0.333,0.061,0,41-50
+769137108,Attrited Customer,43,F,2,Post-Graduate,Married,Less than $40K,Blue,37,3,3,1,1438.3,0,1438.3,1.004,974,28,0.273,0.0,1,41-50
+720179883,Existing Customer,40,M,4,College,Unknown,$80K - $120K,Blue,25,3,3,1,1962.0,0,1962.0,0.684,1179,27,0.688,0.0,0,31-40
+794977533,Attrited Customer,62,M,0,High School,Married,$60K - $80K,Blue,56,3,3,2,8077.0,0,8077.0,0.749,906,16,0.333,0.0,1,61-75
+752604633,Attrited Customer,57,M,2,College,Married,$40K - $60K,Blue,50,2,5,3,6462.0,0,6462.0,0.856,761,17,0.214,0.0,1,51-60
+709446783,Existing Customer,46,M,4,Graduate,Single,$60K - $80K,Blue,38,3,3,2,4335.0,2480,1855.0,0.543,1373,36,1.118,0.572,0,41-50
+711242058,Attrited Customer,48,M,4,Unknown,Single,$80K - $120K,Blue,36,1,3,1,11862.0,2517,9345.0,0.766,643,16,0.231,0.212,1,41-50
+713865333,Attrited Customer,45,F,4,Uneducated,Married,Less than $40K,Blue,38,3,4,3,4908.0,0,4908.0,0.993,827,21,0.75,0.0,1,41-50
+718943508,Existing Customer,42,M,3,Unknown,Single,$80K - $120K,Blue,33,3,3,2,3714.0,2170,1544.0,0.524,1454,35,0.522,0.584,0,41-50
+802276683,Existing Customer,56,M,3,Graduate,Married,$80K - $120K,Blue,50,3,3,3,8022.0,1372,6650.0,0.896,1794,31,1.385,0.171,0,51-60
+812420358,Attrited Customer,61,F,0,Graduate,Married,Less than $40K,Blue,56,3,3,3,2122.0,554,1568.0,0.857,949,17,0.133,0.261,1,61-75
+710280558,Existing Customer,51,M,1,Graduate,Single,$60K - $80K,Blue,39,3,3,2,8796.0,2517,6279.0,0.492,1195,18,0.8,0.286,0,51-60
+818248383,Existing Customer,33,M,2,Doctorate,Married,$60K - $80K,Blue,28,3,3,3,4049.0,0,4049.0,0.898,1742,35,1.5,0.0,0,31-40
+711204483,Attrited Customer,56,M,4,High School,Married,$60K - $80K,Blue,46,3,3,3,2340.0,1930,410.0,0.987,781,15,0.364,0.825,1,51-60
+712650333,Existing Customer,48,M,3,College,Married,$60K - $80K,Blue,37,3,3,2,11959.0,1665,10294.0,0.675,1191,40,0.481,0.139,0,41-50
+715442958,Existing Customer,54,M,2,Uneducated,Married,$60K - $80K,Blue,36,3,3,3,11067.0,2517,8550.0,1.048,1843,38,1.235,0.227,0,51-60
+772684833,Existing Customer,32,F,1,Unknown,Married,Less than $40K,Blue,22,3,3,2,2642.0,2035,607.0,1.119,1761,42,0.909,0.77,0,31-40
+713530833,Attrited Customer,58,M,2,Graduate,Married,$40K - $60K,Blue,48,2,3,3,4085.0,2238,1847.0,0.568,596,15,0.5,0.548,1,51-60
+710997183,Existing Customer,46,M,0,Unknown,Married,$60K - $80K,Gold,36,3,3,2,34516.0,1092,33424.0,0.737,1409,39,0.345,0.032,0,41-50
+778699908,Attrited Customer,43,M,2,Uneducated,Married,$60K - $80K,Blue,24,2,3,3,14447.0,0,14447.0,0.856,915,29,2.222,0.0,1,41-50
+715271733,Existing Customer,50,F,2,Uneducated,Single,Less than $40K,Blue,37,3,3,0,8520.0,814,7706.0,0.504,1193,35,0.346,0.096,0,41-50
+712373208,Attrited Customer,43,M,3,Doctorate,Single,$60K - $80K,Blue,35,3,3,2,3312.0,0,3312.0,0.698,647,19,0.462,0.0,1,41-50
+714851058,Existing Customer,31,M,0,Graduate,Married,$40K - $60K,Blue,21,3,3,0,2158.0,1729,429.0,1.1,1718,42,0.448,0.801,0,31-40
+708455883,Attrited Customer,57,M,1,Graduate,Single,$80K - $120K,Blue,36,2,3,2,10244.0,861,9383.0,0.78,1127,29,0.381,0.084,1,51-60
+711927108,Attrited Customer,54,M,3,High School,Married,$80K - $120K,Blue,36,2,3,4,9457.0,350,9107.0,1.024,1196,28,0.333,0.037,1,51-60
+719471433,Existing Customer,31,F,0,Graduate,Married,Less than $40K,Blue,22,3,3,2,2917.0,2127,790.0,1.074,1831,36,1.0,0.729,0,31-40
+712763808,Existing Customer,38,M,2,Unknown,Single,$60K - $80K,Blue,36,3,3,3,6692.0,2037,4655.0,0.401,1468,36,0.241,0.304,0,31-40
+712672083,Existing Customer,65,F,0,High School,Married,Less than $40K,Blue,36,3,3,2,1438.3,747,691.3,0.491,948,24,0.714,0.519,0,61-75
+708895158,Existing Customer,46,M,2,Unknown,Married,$80K - $120K,Blue,34,3,3,3,2925.0,2365,560.0,0.691,1371,30,0.579,0.809,0,41-50
+711809283,Existing Customer,31,M,1,Unknown,Married,Less than $40K,Blue,36,3,3,3,1868.0,1515,353.0,1.359,2229,35,0.667,0.811,0,31-40
+718594608,Existing Customer,43,F,2,Post-Graduate,Married,Unknown,Blue,36,3,3,3,20156.0,1759,18397.0,0.476,1362,28,0.556,0.087,0,41-50
+714472608,Existing Customer,59,M,0,College,Married,Less than $40K,Blue,49,3,3,3,4250.0,1095,3155.0,0.947,1174,27,0.8,0.258,0,51-60
+719648358,Existing Customer,50,M,2,Graduate,Single,$80K - $120K,Blue,35,3,3,1,2514.0,1521,993.0,0.638,1636,36,0.385,0.605,0,41-50
+714208533,Attrited Customer,43,M,3,High School,Married,$60K - $80K,Blue,36,1,3,3,8663.0,288,8375.0,0.639,916,33,0.32,0.033,1,41-50
+708655983,Existing Customer,49,F,3,High School,Divorced,Unknown,Blue,40,3,3,2,5267.0,0,5267.0,0.442,1353,24,0.263,0.0,0,41-50
+708983658,Attrited Customer,51,M,2,Uneducated,Single,$120K +,Blue,39,3,3,1,16868.0,0,16868.0,0.938,940,25,0.471,0.0,1,51-60
+716024808,Attrited Customer,57,M,1,Graduate,Married,$80K - $120K,Blue,36,3,3,3,4829.0,2418,2411.0,0.601,938,21,0.4,0.501,1,51-60
+720998358,Existing Customer,52,M,0,High School,Married,$120K +,Silver,41,3,3,1,34516.0,1043,33473.0,0.562,1489,38,0.357,0.03,0,51-60
+788728608,Existing Customer,34,M,0,High School,Married,$40K - $60K,Blue,13,3,3,2,3870.0,1394,2476.0,0.827,1588,36,0.714,0.36,0,31-40
+714131058,Existing Customer,30,M,0,Graduate,Unknown,$60K - $80K,Blue,36,3,5,3,18513.0,2517,15996.0,0.524,1567,33,0.941,0.136,0,21-30
+813499458,Attrited Customer,45,M,5,High School,Unknown,$60K - $80K,Blue,40,3,3,1,1438.3,0,1438.3,1.23,2132,31,0.107,0.0,1,41-50
+778706508,Existing Customer,43,M,4,College,Married,$60K - $80K,Blue,24,3,5,4,6231.0,0,6231.0,1.054,1448,30,0.875,0.0,0,41-50
+789886533,Existing Customer,54,F,1,High School,Married,Less than $40K,Blue,44,3,3,3,3947.0,1746,2201.0,0.478,1110,21,0.4,0.442,0,51-60
+715210308,Existing Customer,40,F,1,High School,Married,Unknown,Blue,31,3,3,4,15970.0,1212,14758.0,0.542,1260,32,0.524,0.076,0,31-40
+708431433,Existing Customer,41,M,3,Graduate,Married,$120K +,Blue,31,3,3,2,11789.0,1420,10369.0,0.659,1463,32,0.684,0.12,0,41-50
+813915933,Existing Customer,45,M,2,Graduate,Divorced,$40K - $60K,Blue,40,3,3,2,2259.0,954,1305.0,0.695,1393,35,0.842,0.422,0,41-50
+810220833,Existing Customer,42,M,4,Graduate,Unknown,$40K - $60K,Silver,37,3,6,2,15871.0,2086,13785.0,0.745,1562,43,0.955,0.131,0,41-50
+720650208,Existing Customer,40,F,3,College,Unknown,$40K - $60K,Blue,22,3,3,3,12588.0,2005,10583.0,0.996,1561,26,1.0,0.159,0,31-40
+721265883,Existing Customer,26,M,1,Graduate,Single,Less than $40K,Blue,13,3,3,2,2174.0,1514,660.0,0.607,2510,44,0.294,0.696,0,21-30
+820584408,Existing Customer,49,F,3,Graduate,Single,Less than $40K,Blue,44,3,3,2,4364.0,1507,2857.0,1.05,1392,38,1.375,0.345,0,41-50
+719392833,Existing Customer,45,F,3,Graduate,Married,Less than $40K,Blue,38,3,3,2,2400.0,1613,787.0,0.629,1311,34,0.417,0.672,0,41-50
+711848658,Existing Customer,35,M,3,College,Married,$60K - $80K,Blue,17,3,3,2,2259.0,1776,483.0,1.292,1790,31,0.824,0.786,0,31-40
+712207683,Existing Customer,38,M,0,Unknown,Divorced,Less than $40K,Blue,36,3,3,2,5155.0,684,4471.0,0.588,1555,37,0.48,0.133,0,31-40
+710406633,Attrited Customer,51,F,3,Uneducated,Married,Unknown,Blue,36,3,3,2,3664.0,0,3664.0,0.839,1168,31,0.409,0.0,1,51-60
+709214358,Existing Customer,39,F,3,Graduate,Divorced,Unknown,Blue,30,3,3,2,2420.0,1422,998.0,0.731,1362,24,0.714,0.588,0,31-40
+716169258,Existing Customer,47,F,5,Graduate,Married,Less than $40K,Blue,39,3,3,4,7128.0,1560,5568.0,0.573,1468,44,0.76,0.219,0,41-50
+768490458,Attrited Customer,49,M,2,Uneducated,Married,$80K - $120K,Blue,43,1,3,3,5701.0,2517,3184.0,0.716,961,32,0.524,0.442,1,41-50
+794649858,Existing Customer,58,F,1,Uneducated,Married,Less than $40K,Blue,39,3,3,3,2210.0,1624,586.0,0.627,1287,37,0.48,0.735,0,51-60
+708971583,Existing Customer,38,F,2,Uneducated,Single,Less than $40K,Blue,29,3,3,2,3590.0,1924,1666.0,0.573,1472,37,0.762,0.536,0,31-40
+717784983,Existing Customer,41,F,2,Uneducated,Married,Less than $40K,Blue,33,3,3,3,3893.0,1157,2736.0,1.169,1536,39,0.773,0.297,0,41-50
+768460908,Existing Customer,59,M,1,Graduate,Single,$40K - $60K,Blue,53,3,3,3,6035.0,1392,4643.0,0.361,1551,32,0.6,0.231,0,51-60
+779480658,Existing Customer,58,F,4,Graduate,Married,Unknown,Blue,42,3,3,4,10247.0,1600,8647.0,0.63,1754,44,0.692,0.156,0,51-60
+815472108,Existing Customer,42,M,3,High School,Single,$40K - $60K,Blue,37,3,3,3,2247.0,1045,1202.0,0.952,1300,31,0.55,0.465,0,41-50
+709855608,Existing Customer,46,F,4,High School,Married,Less than $40K,Blue,36,3,3,4,1438.3,981,457.3,0.663,1114,33,0.65,0.682,0,41-50
+708913233,Existing Customer,37,M,1,High School,Married,$40K - $60K,Blue,28,3,4,2,3601.0,1236,2365.0,0.726,1802,34,0.478,0.343,0,31-40
+778401033,Existing Customer,32,M,0,High School,Married,$60K - $80K,Blue,13,3,3,4,14308.0,1889,12419.0,1.053,1659,39,1.167,0.132,0,31-40
+711048783,Existing Customer,41,M,4,Doctorate,Married,$80K - $120K,Blue,29,3,3,3,33405.0,0,33405.0,0.535,1345,34,0.619,0.0,0,41-50
+709707033,Attrited Customer,45,M,3,Graduate,Single,$60K - $80K,Blue,32,2,3,2,13162.0,0,13162.0,0.512,1424,38,0.583,0.0,1,41-50
+718416858,Existing Customer,42,M,5,Graduate,Married,$60K - $80K,Blue,34,3,3,3,10607.0,2517,8090.0,1.197,1903,40,0.538,0.237,0,41-50
+721178583,Attrited Customer,37,F,3,Graduate,Unknown,Unknown,Blue,22,2,3,2,5674.0,0,5674.0,0.906,1096,29,0.526,0.0,1,31-40
+708927108,Attrited Customer,53,M,2,Graduate,Married,$120K +,Blue,36,1,3,2,12778.0,507,12271.0,0.967,1133,28,0.4,0.04,1,51-60
+717831783,Existing Customer,58,F,2,Uneducated,Married,Less than $40K,Blue,45,3,3,4,1942.0,1536,406.0,0.615,1371,38,0.407,0.791,0,51-60
+789282333,Existing Customer,62,F,0,Graduate,Married,Unknown,Blue,51,3,3,3,10826.0,1274,9552.0,0.602,1355,34,0.619,0.118,0,61-75
+719227233,Existing Customer,27,F,1,Unknown,Single,Less than $40K,Blue,36,3,3,3,1553.0,723,830.0,0.666,1954,43,0.344,0.466,0,21-30
+772468983,Existing Customer,36,M,1,Post-Graduate,Married,$80K - $120K,Blue,26,3,4,2,21927.0,1291,20636.0,0.864,1946,37,0.542,0.059,0,31-40
+719692983,Existing Customer,36,M,2,Doctorate,Married,$60K - $80K,Blue,30,3,3,4,4934.0,1504,3430.0,1.52,2747,42,0.448,0.305,0,31-40
+711006783,Existing Customer,38,F,1,Graduate,Single,Less than $40K,Blue,22,3,3,3,2484.0,2149,335.0,0.669,1200,28,0.647,0.865,0,31-40
+821179233,Attrited Customer,50,F,1,Post-Graduate,Single,$40K - $60K,Blue,46,1,3,3,1493.0,932,561.0,0.466,1554,43,0.344,0.624,1,41-50
+771086208,Existing Customer,57,F,2,Graduate,Married,Less than $40K,Blue,44,3,4,4,6256.0,1530,4726.0,0.647,1629,43,0.344,0.245,0,51-60
+716362008,Existing Customer,37,M,2,Doctorate,Married,$40K - $60K,Blue,29,3,3,2,1808.0,1009,799.0,0.796,1744,35,0.944,0.558,0,31-40
+779883933,Existing Customer,40,F,4,Graduate,Married,Less than $40K,Blue,24,3,3,2,8014.0,1402,6612.0,0.873,1596,34,0.789,0.175,0,31-40
+720668358,Existing Customer,59,M,0,Uneducated,Single,$40K - $60K,Blue,46,3,3,3,1648.0,997,651.0,0.776,1776,36,0.565,0.605,0,51-60
+716998608,Existing Customer,48,M,3,Graduate,Unknown,$60K - $80K,Blue,36,3,3,2,6703.0,1252,5451.0,0.625,1843,44,0.63,0.187,0,41-50
+718011783,Existing Customer,55,M,3,Graduate,Married,$40K - $60K,Blue,36,3,3,3,2205.0,1337,868.0,0.65,1591,38,0.727,0.606,0,51-60
+711954558,Existing Customer,53,F,3,Graduate,Married,$40K - $60K,Blue,44,3,3,4,2636.0,2357,279.0,0.654,1333,34,0.545,0.894,0,51-60
+712655583,Existing Customer,41,M,3,Graduate,Married,$40K - $60K,Blue,32,3,3,2,6425.0,915,5510.0,0.958,2036,44,0.692,0.142,0,41-50
+709537683,Attrited Customer,37,M,3,College,Married,$80K - $120K,Blue,30,3,4,3,11638.0,926,10712.0,0.262,563,15,0.364,0.08,1,31-40
+790145733,Attrited Customer,40,M,3,College,Single,$80K - $120K,Silver,33,1,3,4,34516.0,0,34516.0,0.927,1112,26,0.368,0.0,1,31-40
+713577483,Existing Customer,47,M,4,Unknown,Married,$80K - $120K,Blue,35,3,3,4,5589.0,1430,4159.0,0.632,1570,31,0.722,0.256,0,41-50
+719818983,Attrited Customer,39,M,1,College,Divorced,$80K - $120K,Blue,28,1,3,4,12464.0,0,12464.0,0.864,1195,35,0.522,0.0,1,31-40
+787570758,Existing Customer,35,M,2,Uneducated,Married,$120K +,Blue,26,3,3,4,2944.0,1596,1348.0,0.737,2070,44,0.467,0.542,0,31-40
+779993208,Existing Customer,38,F,2,Uneducated,Married,Less than $40K,Blue,28,3,3,3,7049.0,0,7049.0,0.988,1475,27,1.7,0.0,0,31-40
+772706283,Existing Customer,38,F,2,College,Married,$40K - $60K,Blue,28,3,3,4,6275.0,1579,4696.0,0.996,1585,43,0.72,0.252,0,31-40
+764776833,Existing Customer,61,M,0,Graduate,Married,$40K - $60K,Blue,54,3,3,2,3077.0,1646,1431.0,0.456,1523,30,0.579,0.535,0,61-75
+720610008,Attrited Customer,59,M,1,College,Married,$120K +,Blue,50,1,5,4,15796.0,812,14984.0,0.719,1339,23,0.15,0.051,1,51-60
+719854008,Existing Customer,47,M,3,Unknown,Single,$40K - $60K,Blue,36,3,6,2,5154.0,1407,3747.0,0.666,1694,32,0.778,0.273,0,41-50
+819610908,Attrited Customer,38,M,2,Uneducated,Single,$80K - $120K,Blue,33,1,4,4,32938.0,2089,30849.0,0.72,1137,26,0.238,0.063,1,31-40
+816013383,Attrited Customer,65,F,0,Graduate,Divorced,Less than $40K,Blue,56,3,6,3,6184.0,0,6184.0,1.016,1712,27,0.286,0.0,1,61-75
+720904233,Existing Customer,53,M,0,Graduate,Married,$80K - $120K,Blue,41,3,3,2,16033.0,560,15473.0,0.963,1158,31,1.067,0.035,0,51-60
+789433758,Existing Customer,36,M,0,College,Married,$80K - $120K,Blue,27,3,3,2,6338.0,2379,3959.0,0.624,1715,39,0.5,0.375,0,31-40
+785011383,Attrited Customer,36,F,0,Uneducated,Divorced,$40K - $60K,Blue,30,1,3,4,2190.0,0,2190.0,0.908,1412,38,0.583,0.0,1,31-40
+716382708,Attrited Customer,46,F,2,Graduate,Single,Less than $40K,Blue,36,3,4,3,8309.0,858,7451.0,0.888,1165,35,0.4,0.103,1,41-50
+711224733,Attrited Customer,32,M,0,High School,Married,$120K +,Blue,27,3,3,4,22382.0,0,22382.0,0.418,695,10,0.25,0.0,1,31-40
+791856033,Attrited Customer,45,M,2,College,Divorced,$80K - $120K,Blue,39,3,4,4,34516.0,0,34516.0,1.014,1041,27,0.35,0.0,1,41-50
+716448783,Attrited Customer,48,F,3,Graduate,Married,$40K - $60K,Blue,39,2,4,3,6235.0,0,6235.0,0.848,1225,34,0.478,0.0,1,41-50
+714130233,Existing Customer,39,M,2,Unknown,Married,$60K - $80K,Blue,19,3,3,2,3047.0,2150,897.0,0.882,1602,37,1.312,0.706,0,31-40
+711615933,Existing Customer,43,M,3,Graduate,Married,$80K - $120K,Blue,33,3,3,2,28170.0,1859,26311.0,0.568,1013,28,0.75,0.066,0,41-50
+708892833,Attrited Customer,37,M,2,Graduate,Married,$120K +,Blue,30,2,4,4,13662.0,0,13662.0,0.153,725,22,0.0,0.0,1,31-40
+710251608,Existing Customer,62,F,1,High School,Married,Less than $40K,Blue,54,3,3,4,2941.0,1173,1768.0,0.436,1453,27,0.35,0.399,0,61-75
+710633808,Existing Customer,26,M,0,Graduate,Single,$60K - $80K,Blue,13,3,3,3,7102.0,0,7102.0,0.537,2411,41,0.281,0.0,0,21-30
+719318583,Attrited Customer,37,M,3,High School,Married,Less than $40K,Blue,26,3,3,4,6866.0,2389,4477.0,0.395,862,13,0.182,0.348,1,31-40
+711782733,Existing Customer,55,M,0,Graduate,Married,$40K - $60K,Blue,36,3,3,2,3097.0,827,2270.0,0.511,1390,24,0.263,0.267,0,51-60
+772202058,Existing Customer,64,M,0,Graduate,Married,Less than $40K,Blue,53,3,3,4,2084.0,1647,437.0,0.664,1597,37,0.542,0.79,0,61-75
+717105258,Existing Customer,37,F,1,Graduate,Married,Less than $40K,Blue,36,3,3,3,3992.0,1289,2703.0,1.008,2181,32,0.6,0.323,0,31-40
+709025583,Existing Customer,53,M,3,High School,Married,$80K - $120K,Blue,36,3,3,3,9355.0,715,8640.0,0.422,1138,38,0.727,0.076,0,51-60
+708580908,Existing Customer,56,M,3,High School,Married,$60K - $80K,Blue,37,3,3,3,14551.0,2517,12034.0,0.92,1373,35,0.591,0.173,0,51-60
+714804483,Existing Customer,48,M,3,College,Divorced,$40K - $60K,Blue,36,3,3,3,12159.0,1665,10494.0,0.608,1426,34,0.545,0.137,0,41-50
+765055833,Existing Customer,56,M,4,Unknown,Married,$80K - $120K,Blue,49,3,4,2,4310.0,2229,2081.0,0.643,1645,33,0.941,0.517,0,51-60
+718577958,Attrited Customer,39,M,2,Uneducated,Married,$120K +,Blue,26,2,3,4,8906.0,0,8906.0,0.315,809,15,0.25,0.0,1,31-40
+772360683,Existing Customer,57,M,1,High School,Married,$120K +,Blue,46,3,3,4,31762.0,2517,29245.0,0.735,1515,36,0.714,0.079,0,51-60
+717664008,Attrited Customer,37,M,3,College,Married,$60K - $80K,Blue,19,2,3,4,3100.0,2517,583.0,0.35,694,12,0.2,0.812,1,31-40
+716129208,Existing Customer,37,M,3,Graduate,Married,$40K - $60K,Blue,36,3,3,3,2031.0,0,2031.0,0.752,1678,36,0.8,0.0,0,31-40
+709839858,Existing Customer,58,F,2,Graduate,Married,Less than $40K,Blue,39,3,4,3,4608.0,1077,3531.0,0.694,1535,31,0.632,0.234,0,51-60
+720181758,Attrited Customer,37,M,0,Doctorate,Married,$120K +,Blue,22,3,3,4,8654.0,0,8654.0,0.446,850,18,0.385,0.0,1,31-40
+718950483,Existing Customer,58,F,1,Unknown,Married,$40K - $60K,Blue,48,3,3,2,12423.0,1910,10513.0,0.405,1208,38,0.357,0.154,0,51-60
+711786108,Existing Customer,52,M,1,Graduate,Married,$60K - $80K,Blue,43,3,3,2,7187.0,2014,5173.0,0.649,1159,26,0.733,0.28,0,51-60
+752085108,Existing Customer,39,F,2,Graduate,Married,$40K - $60K,Blue,29,3,5,2,4955.0,1157,3798.0,0.896,1824,38,0.727,0.234,0,31-40
+711692508,Attrited Customer,54,F,2,Post-Graduate,Married,Less than $40K,Blue,47,3,4,3,1438.3,0,1438.3,1.053,1154,22,0.375,0.0,1,51-60
+717930483,Attrited Customer,37,M,2,Graduate,Single,$120K +,Blue,25,3,3,0,5616.0,0,5616.0,0.995,1564,31,0.476,0.0,1,31-40
+715651833,Attrited Customer,65,M,1,Unknown,Single,Less than $40K,Blue,36,3,4,4,2351.0,0,2351.0,0.881,1593,35,0.591,0.0,1,61-75
+713972658,Existing Customer,56,F,2,Graduate,Married,Unknown,Blue,36,3,3,2,5335.0,996,4339.0,0.469,1454,43,0.433,0.187,0,51-60
+715843533,Existing Customer,26,M,1,College,Single,$40K - $60K,Blue,36,3,4,3,2703.0,1256,1447.0,0.949,2111,29,0.706,0.465,0,21-30
+778693458,Attrited Customer,32,M,1,High School,Divorced,$60K - $80K,Blue,13,3,3,3,12616.0,0,12616.0,1.054,1376,29,0.611,0.0,1,31-40
+714460683,Existing Customer,65,M,0,High School,Married,Less than $40K,Blue,56,3,3,5,3838.0,1736,2102.0,0.445,1467,29,0.706,0.452,0,61-75
+712551258,Attrited Customer,39,M,1,Uneducated,Married,Less than $40K,Blue,36,3,3,3,4247.0,0,4247.0,0.405,847,17,0.133,0.0,1,31-40
+771976683,Existing Customer,54,F,1,College,Married,Unknown,Blue,43,3,3,2,5839.0,2130,3709.0,0.687,1640,44,0.333,0.365,0,51-60
+709564683,Attrited Customer,32,M,2,Graduate,Married,$40K - $60K,Blue,22,3,3,5,4739.0,0,4739.0,0.363,886,21,0.4,0.0,1,31-40
+713021208,Attrited Customer,55,F,2,College,Single,Unknown,Silver,36,2,3,3,34516.0,0,34516.0,0.399,1353,40,0.212,0.0,1,51-60
+768655158,Existing Customer,29,M,0,Unknown,Married,$60K - $80K,Blue,23,3,3,2,6224.0,1092,5132.0,0.919,2222,39,0.56,0.175,0,21-30
+713104458,Attrited Customer,46,M,2,Graduate,Single,$40K - $60K,Blue,31,3,3,5,7869.0,0,7869.0,0.692,998,25,0.562,0.0,1,41-50
+716244033,Attrited Customer,44,M,3,Graduate,Married,$40K - $60K,Blue,33,2,3,3,7266.0,906,6360.0,0.676,1741,27,0.421,0.125,1,41-50
+711734508,Existing Customer,55,M,2,Graduate,Married,$80K - $120K,Blue,47,3,3,3,9959.0,1209,8750.0,0.548,1584,28,0.273,0.121,0,51-60
+773082033,Existing Customer,35,M,1,Post-Graduate,Married,$80K - $120K,Blue,27,3,3,4,25516.0,1363,24153.0,1.172,2317,38,0.727,0.053,0,31-40
+815288583,Existing Customer,32,M,0,Graduate,Married,$40K - $60K,Blue,27,3,3,2,4815.0,1591,3224.0,1.409,2501,36,0.714,0.33,0,31-40
+709164408,Attrited Customer,32,M,1,Uneducated,Married,Less than $40K,Blue,23,1,3,3,2218.0,1696,522.0,0.367,730,20,0.429,0.765,1,31-40
+718361583,Existing Customer,56,F,2,Uneducated,Married,Unknown,Blue,36,3,3,5,8242.0,0,8242.0,0.434,1559,44,0.467,0.0,0,51-60
+720185058,Attrited Customer,46,M,3,Graduate,Married,$60K - $80K,Blue,36,2,3,4,4267.0,0,4267.0,0.862,1067,23,0.769,0.0,1,41-50
+717813558,Attrited Customer,57,F,3,High School,Single,Unknown,Blue,36,1,4,2,8389.0,1960,6429.0,0.384,1334,38,0.407,0.234,1,51-60
+795810633,Existing Customer,65,M,0,Uneducated,Married,Unknown,Blue,56,3,3,2,10144.0,1295,8849.0,0.758,1234,24,1.182,0.128,0,61-75
+719470458,Attrited Customer,46,M,3,College,Single,$80K - $120K,Blue,39,1,4,3,4026.0,243,3783.0,0.738,1102,27,0.8,0.06,1,41-50
+772303458,Existing Customer,62,F,0,Doctorate,Married,$40K - $60K,Blue,51,3,3,2,3377.0,948,2429.0,0.461,1407,44,0.467,0.281,0,61-75
+721243083,Attrited Customer,55,M,3,Uneducated,Divorced,$80K - $120K,Blue,41,1,3,4,34516.0,2408,32108.0,0.796,1187,40,0.6,0.07,1,51-60
+712674183,Existing Customer,53,M,2,College,Married,$40K - $60K,Blue,33,3,3,1,4065.0,2180,1885.0,0.321,1271,36,0.2,0.536,0,51-60
+714633858,Existing Customer,35,F,2,College,Married,Less than $40K,Blue,18,3,3,2,5779.0,2517,3262.0,1.201,2102,32,1.133,0.436,0,31-40
+712005108,Existing Customer,61,F,0,Post-Graduate,Married,Less than $40K,Blue,48,3,3,3,3156.0,2155,1001.0,0.438,1376,44,0.571,0.683,0,61-75
+790004883,Existing Customer,55,M,1,High School,Married,$80K - $120K,Blue,47,3,3,3,2938.0,1995,943.0,0.514,1352,30,0.429,0.679,0,51-60
+771649083,Existing Customer,63,M,0,High School,Married,$80K - $120K,Blue,51,3,3,4,10257.0,1021,9236.0,0.467,1508,30,0.429,0.1,0,61-75
+806256333,Attrited Customer,41,M,4,Graduate,Unknown,$60K - $80K,Blue,36,2,3,5,1438.3,312,1126.3,0.657,1786,26,0.733,0.217,1,41-50
+720693033,Attrited Customer,33,M,1,Unknown,Married,$60K - $80K,Blue,36,1,3,4,8925.0,168,8757.0,0.447,741,10,0.429,0.019,1,31-40
+715883358,Existing Customer,52,M,3,College,Married,$80K - $120K,Blue,39,3,3,2,18352.0,1509,16843.0,0.898,1454,29,1.071,0.082,0,51-60
+779542608,Existing Customer,47,M,4,Uneducated,Single,$80K - $120K,Blue,32,3,3,2,34010.0,1340,32670.0,0.744,1739,39,0.5,0.039,0,41-50
+789963033,Attrited Customer,54,F,1,Graduate,Single,Less than $40K,Blue,45,3,5,5,1438.3,0,1438.3,0.647,1603,39,0.444,0.0,1,51-60
+719336583,Existing Customer,55,M,2,Uneducated,Married,$120K +,Blue,44,3,3,3,27745.0,1300,26445.0,0.482,1525,21,0.5,0.047,0,51-60
+709121283,Existing Customer,54,M,3,Uneducated,Married,Less than $40K,Blue,36,3,3,2,1556.0,1278,278.0,0.46,1615,35,0.591,0.821,0,51-60
+716331408,Attrited Customer,52,F,4,Unknown,Married,Less than $40K,Blue,36,1,4,5,2143.0,0,2143.0,0.853,1353,36,0.333,0.0,1,51-60
+771032658,Existing Customer,54,M,3,Unknown,Married,$80K - $120K,Blue,41,3,3,2,10448.0,1569,8879.0,0.482,1604,39,0.444,0.15,0,51-60
+721385433,Existing Customer,64,M,0,Unknown,Married,Less than $40K,Blue,51,3,3,4,2787.0,1201,1586.0,0.372,1662,39,0.625,0.431,0,61-75
+787460883,Attrited Customer,41,M,3,Uneducated,Married,$40K - $60K,Blue,28,3,3,4,11091.0,0,11091.0,0.522,1234,34,0.308,0.0,1,41-50
+709206333,Attrited Customer,44,F,4,Graduate,Single,$40K - $60K,Blue,30,3,4,4,4333.0,0,4333.0,0.463,1558,40,0.538,0.0,1,41-50
+772273983,Attrited Customer,48,M,4,Uneducated,Single,$40K - $60K,Blue,37,1,3,4,5268.0,2191,3077.0,0.622,2138,40,0.429,0.416,1,41-50
+719902908,Attrited Customer,51,M,3,Unknown,Married,$80K - $120K,Blue,36,3,3,3,5130.0,0,5130.0,0.407,1434,31,0.292,0.0,1,51-60
+708193008,Existing Customer,41,M,4,Uneducated,Single,$80K - $120K,Blue,30,3,3,4,14480.0,0,14480.0,0.703,1616,43,0.654,0.0,0,41-50
+709163358,Attrited Customer,41,M,5,Unknown,Single,$60K - $80K,Gold,32,2,3,4,34516.0,2517,31999.0,0.465,1727,35,0.458,0.073,1,41-50
+719836083,Existing Customer,54,M,4,Unknown,Married,$60K - $80K,Blue,36,3,4,2,7477.0,1752,5725.0,0.294,1543,34,0.172,0.234,0,51-60
+827476983,Attrited Customer,56,F,2,College,Single,Less than $40K,Blue,52,3,5,1,3639.0,2178,1461.0,0.451,1865,42,0.5,0.599,1,51-60
+708563433,Attrited Customer,65,F,0,High School,Single,Unknown,Blue,56,3,6,3,5894.0,477,5417.0,1.015,1616,32,0.455,0.081,1,61-75
+778908783,Existing Customer,52,M,3,College,Married,$80K - $120K,Blue,33,3,3,4,27751.0,1018,26733.0,0.426,1427,25,0.667,0.037,0,51-60
+815062383,Existing Customer,35,F,2,High School,Married,Less than $40K,Blue,30,3,3,1,4549.0,1193,3356.0,0.445,1914,33,0.5,0.262,0,31-40
+720725058,Attrited Customer,51,F,1,Graduate,Single,Less than $40K,Blue,37,1,3,4,7176.0,0,7176.0,0.45,1375,33,0.65,0.0,1,51-60
+716950758,Attrited Customer,46,M,4,High School,Married,$60K - $80K,Blue,36,1,3,2,8017.0,0,8017.0,0.559,1657,43,0.654,0.0,1,41-50
+712623258,Attrited Customer,42,F,3,Graduate,Married,Less than $40K,Blue,36,2,3,3,5505.0,2517,2988.0,0.729,2272,42,0.448,0.457,1,41-50
+720508233,Attrited Customer,62,M,0,Unknown,Single,$40K - $60K,Silver,42,3,4,4,17161.0,0,17161.0,0.552,1898,42,0.556,0.0,1,61-75
+716387733,Attrited Customer,49,M,4,Graduate,Single,$60K - $80K,Blue,36,1,4,5,5662.0,1484,4178.0,0.434,1693,25,0.25,0.262,1,41-50
+715858008,Attrited Customer,49,F,1,Uneducated,Married,$40K - $60K,Blue,39,2,3,3,8061.0,2517,5544.0,0.352,1224,31,0.409,0.312,1,41-50
+811035483,Attrited Customer,47,M,3,Uneducated,Divorced,$120K +,Silver,42,2,4,5,34516.0,0,34516.0,0.521,1641,35,0.591,0.0,1,41-50
+720379533,Attrited Customer,47,M,3,Unknown,Unknown,$120K +,Blue,36,1,3,4,3952.0,0,3952.0,0.809,2066,37,0.233,0.0,1,41-50
+709224033,Attrited Customer,53,M,4,Uneducated,Single,$60K - $80K,Blue,43,1,3,2,13720.0,0,13720.0,0.671,1830,36,0.241,0.0,1,51-60
+804673308,Attrited Customer,49,M,5,Uneducated,Married,$40K - $60K,Blue,44,2,3,4,3893.0,0,3893.0,0.662,1866,37,0.947,0.0,1,41-50
+767784708,Attrited Customer,48,M,0,Doctorate,Married,$60K - $80K,Blue,41,2,3,4,7277.0,504,6773.0,0.582,2356,40,0.29,0.069,1,41-50
+716573058,Attrited Customer,54,F,3,Doctorate,Unknown,Less than $40K,Blue,36,3,3,4,1438.3,0,1438.3,0.499,1598,40,0.29,0.0,1,51-60
+716977758,Attrited Customer,44,F,3,Uneducated,Married,Less than $40K,Blue,36,2,3,1,3675.0,2517,1158.0,0.766,1913,35,0.667,0.685,1,41-50
+717242058,Attrited Customer,43,F,5,Graduate,Married,Less than $40K,Blue,39,2,3,4,3981.0,0,3981.0,0.764,2134,42,0.355,0.0,1,41-50
+709297608,Attrited Customer,38,M,3,College,Single,$80K - $120K,Blue,26,3,3,2,1438.3,0,1438.3,0.399,1585,32,0.455,0.0,1,31-40
+714629358,Attrited Customer,54,F,3,Graduate,Divorced,$40K - $60K,Blue,34,2,3,4,4948.0,0,4948.0,0.392,1796,41,0.519,0.0,1,51-60
+719987733,Attrited Customer,51,F,3,Unknown,Single,$40K - $60K,Blue,38,3,3,3,5026.0,0,5026.0,0.564,1844,37,0.609,0.0,1,51-60
+715857183,Existing Customer,46,M,2,College,Single,$60K - $80K,Blue,36,3,3,2,4939.0,1296,3643.0,0.911,2150,43,0.87,0.262,0,41-50
+715371108,Attrited Customer,45,M,3,Graduate,Married,$80K - $120K,Blue,40,3,3,2,3728.0,0,3728.0,0.358,1632,42,0.448,0.0,1,41-50
+796903083,Attrited Customer,47,F,1,Doctorate,Married,$40K - $60K,Blue,36,2,3,2,1438.3,0,1438.3,0.838,2584,42,0.448,0.0,1,41-50
+719488008,Existing Customer,39,F,1,Graduate,Married,Less than $40K,Blue,36,3,3,1,2490.0,1281,1209.0,0.551,1902,34,0.619,0.514,0,31-40
+772137183,Attrited Customer,52,M,2,Graduate,Single,$120K +,Blue,41,1,3,1,31668.0,810,30858.0,0.643,1822,36,0.5,0.026,1,51-60
+812449758,Attrited Customer,43,M,3,High School,Single,$60K - $80K,Blue,38,2,3,2,12254.0,0,12254.0,0.705,2129,42,0.355,0.0,1,41-50
+719914908,Existing Customer,37,M,2,Uneducated,Divorced,Less than $40K,Silver,36,3,3,2,11568.0,1846,9722.0,0.755,1701,44,1.095,0.16,0,31-40
+715485483,Attrited Customer,39,F,5,Graduate,Married,Less than $40K,Blue,36,3,3,3,3664.0,0,3664.0,0.419,1479,44,0.913,0.0,1,31-40
+711205758,Attrited Customer,45,M,3,College,Single,$80K - $120K,Silver,33,1,3,3,34516.0,0,34516.0,1.492,2534,43,0.433,0.0,1,41-50
+826471458,Attrited Customer,42,M,3,Graduate,Married,Less than $40K,Blue,38,2,3,3,6967.0,1767,5200.0,0.54,1919,38,0.52,0.254,1,41-50
+789365508,Attrited Customer,49,M,2,High School,Divorced,$40K - $60K,Blue,39,2,3,4,14839.0,512,14327.0,0.176,1453,26,0.13,0.035,1,41-50
+711843708,Attrited Customer,61,F,0,Graduate,Divorced,Less than $40K,Blue,36,2,3,3,2125.0,0,2125.0,0.654,2860,38,0.727,0.0,1,61-75
+711275433,Attrited Customer,47,M,4,Uneducated,Unknown,Unknown,Blue,36,3,3,3,18873.0,0,18873.0,0.636,2021,38,0.52,0.0,1,41-50
+827117808,Attrited Customer,45,M,1,Graduate,Single,$60K - $80K,Blue,41,2,3,2,9904.0,2513,7391.0,0.0,1152,28,0.0,0.254,1,41-50
+804462633,Attrited Customer,43,F,3,High School,Divorced,Less than $40K,Blue,38,3,3,3,7084.0,0,7084.0,0.523,2287,44,0.294,0.0,1,41-50
+712597233,Attrited Customer,37,M,2,Uneducated,Unknown,$40K - $60K,Blue,36,2,3,2,3250.0,1721,1529.0,0.446,1714,32,0.391,0.53,1,31-40
+737921733,Attrited Customer,62,F,1,Unknown,Single,Less than $40K,Blue,55,3,3,3,1892.0,1604,288.0,0.476,1581,34,0.417,0.848,1,61-75
+716575758,Attrited Customer,50,F,2,College,Unknown,Unknown,Blue,39,2,3,2,1438.3,0,1438.3,0.588,1859,41,0.464,0.0,1,41-50
+714097683,Attrited Customer,55,F,2,Graduate,Married,$40K - $60K,Blue,49,3,3,4,1809.0,0,1809.0,0.569,2123,44,0.571,0.0,1,51-60
+709435533,Attrited Customer,53,F,1,Unknown,Single,Less than $40K,Blue,41,2,3,2,3099.0,0,3099.0,0.279,1401,44,0.419,0.0,1,51-60
+721104708,Attrited Customer,41,F,3,Post-Graduate,Single,Less than $40K,Blue,36,1,3,1,2067.0,1966,101.0,0.91,3033,41,0.708,0.951,1,41-50
+803028858,Attrited Customer,38,F,2,Graduate,Single,Less than $40K,Blue,32,2,3,3,3775.0,0,3775.0,0.581,2031,36,0.385,0.0,1,31-40
+712751133,Attrited Customer,42,M,3,Doctorate,Single,$60K - $80K,Blue,35,3,3,3,11328.0,1369,9959.0,0.585,1829,42,0.312,0.121,1,41-50
+708170508,Attrited Customer,38,M,2,Graduate,Married,$60K - $80K,Blue,36,2,3,2,1438.3,0,1438.3,0.461,1651,42,0.5,0.0,1,31-40
+719770158,Attrited Customer,54,F,3,Post-Graduate,Single,Less than $40K,Blue,49,1,4,3,8516.0,0,8516.0,0.549,2189,37,0.276,0.0,1,51-60
+816261858,Attrited Customer,61,M,0,Graduate,Single,$40K - $60K,Blue,56,2,5,4,3984.0,2245,1739.0,0.612,1821,39,0.696,0.564,1,61-75
+721308033,Attrited Customer,45,F,2,Post-Graduate,Single,Less than $40K,Blue,37,3,3,1,3036.0,2517,519.0,0.882,2609,42,0.615,0.829,1,41-50
+774760458,Attrited Customer,62,F,1,High School,Unknown,$40K - $60K,Blue,56,3,5,1,3807.0,2517,1290.0,0.506,1739,36,0.5,0.661,1,61-75
+713730933,Attrited Customer,53,F,4,Graduate,Married,Less than $40K,Blue,36,2,3,5,1438.3,0,1438.3,0.314,1739,44,0.467,0.0,1,51-60
+720283758,Attrited Customer,44,F,2,Uneducated,Married,Unknown,Blue,36,1,3,3,13735.0,1733,12002.0,0.614,1783,43,0.654,0.126,1,41-50
+709560258,Attrited Customer,49,F,3,Graduate,Single,Unknown,Blue,31,2,3,4,4946.0,0,4946.0,0.54,2239,38,0.407,0.0,1,41-50
+719602908,Attrited Customer,42,F,2,Post-Graduate,Single,$40K - $60K,Blue,34,3,3,3,5667.0,812,4855.0,0.62,2064,42,0.4,0.143,1,41-50
+709713033,Attrited Customer,55,M,1,College,Single,$80K - $120K,Blue,48,3,3,3,6846.0,0,6846.0,0.62,1735,35,0.522,0.0,1,51-60
+717840108,Attrited Customer,48,M,4,Unknown,Married,$80K - $120K,Blue,41,2,3,6,4806.0,1357,3449.0,0.573,1771,35,0.346,0.282,1,41-50
+715016508,Attrited Customer,42,F,3,High School,Married,$40K - $60K,Blue,36,1,3,4,4527.0,0,4527.0,0.801,2441,37,0.37,0.0,1,41-50
+719682183,Existing Customer,53,F,2,Unknown,Single,$40K - $60K,Blue,43,3,4,4,6188.0,2517,3671.0,0.713,1997,43,1.048,0.407,0,51-60
+712812408,Attrited Customer,40,F,3,Unknown,Married,Less than $40K,Blue,28,2,3,3,1535.0,0,1535.0,0.544,1921,41,0.464,0.0,1,31-40
+713585958,Attrited Customer,48,F,4,College,Married,Less than $40K,Blue,36,2,3,2,5997.0,0,5997.0,0.406,1457,42,0.5,0.0,1,41-50
+773667708,Attrited Customer,50,M,1,Graduate,Divorced,$60K - $80K,Blue,44,3,4,3,7050.0,1008,6042.0,0.639,2176,39,0.56,0.143,1,41-50
+806947308,Attrited Customer,40,M,4,Post-Graduate,Married,$60K - $80K,Blue,35,3,4,3,20178.0,1553,18625.0,0.324,1735,44,0.375,0.077,1,31-40
+708386958,Attrited Customer,47,F,3,Unknown,Married,Less than $40K,Blue,34,3,3,2,1561.0,0,1561.0,0.502,1947,28,0.556,0.0,1,41-50
+718220358,Attrited Customer,58,M,1,Graduate,Single,$120K +,Blue,36,2,3,4,28618.0,0,28618.0,0.685,1712,41,0.414,0.0,1,51-60
+712656783,Attrited Customer,49,M,1,Graduate,Single,$120K +,Blue,36,3,4,3,8136.0,2517,5619.0,0.674,2179,40,0.429,0.309,1,41-50
+815353083,Attrited Customer,44,M,1,College,Divorced,$80K - $120K,Silver,39,2,3,2,34516.0,2361,32155.0,0.529,1853,36,0.385,0.068,1,41-50
+768256908,Attrited Customer,45,M,3,Uneducated,Married,Less than $40K,Blue,39,3,3,4,8580.0,1636,6944.0,0.393,1880,37,0.233,0.191,1,41-50
+721451208,Attrited Customer,54,M,2,Graduate,Single,$60K - $80K,Silver,45,2,3,2,30540.0,0,30540.0,0.602,1980,36,0.8,0.0,1,51-60
+716654808,Attrited Customer,48,M,4,High School,Single,$120K +,Blue,39,3,4,4,24593.0,0,24593.0,0.777,2084,31,0.55,0.0,1,41-50
+716022258,Attrited Customer,51,F,3,College,Single,Less than $40K,Blue,36,3,3,3,8960.0,2222,6738.0,0.382,1853,40,0.333,0.248,1,51-60
+811527933,Attrited Customer,65,F,0,College,Single,Less than $40K,Silver,56,3,4,3,10885.0,1758,9127.0,0.8,2291,39,0.773,0.162,1,61-75
+715294083,Attrited Customer,46,M,2,College,Single,$80K - $120K,Blue,38,2,3,2,10309.0,0,10309.0,0.451,1760,40,0.6,0.0,1,41-50
+711588708,Attrited Customer,50,F,2,Uneducated,Married,$40K - $60K,Blue,36,1,3,1,1438.3,458,980.3,0.613,1863,42,0.312,0.318,1,41-50
+714492783,Attrited Customer,46,F,4,Uneducated,Married,Less than $40K,Blue,36,3,3,3,1438.3,0,1438.3,0.346,1517,38,0.407,0.0,1,41-50
+772695033,Attrited Customer,47,M,5,High School,Single,$80K - $120K,Blue,37,3,4,4,18800.0,2517,16283.0,0.482,1575,23,0.211,0.134,1,41-50
+708831858,Attrited Customer,43,F,3,Uneducated,Married,Less than $40K,Blue,30,1,3,4,4579.0,1506,3073.0,0.443,1915,44,0.375,0.329,1,41-50
+712901283,Attrited Customer,53,F,2,Graduate,Single,$40K - $60K,Blue,36,2,3,2,2121.0,0,2121.0,0.618,1464,32,0.778,0.0,1,51-60
+709708233,Attrited Customer,49,F,3,Doctorate,Married,Less than $40K,Blue,29,3,4,2,7066.0,0,7066.0,0.479,1695,38,0.31,0.0,1,41-50
+717669483,Existing Customer,52,M,1,Graduate,Single,$80K - $120K,Blue,44,3,3,1,34516.0,0,34516.0,0.551,1737,38,0.9,0.0,0,51-60
+803796708,Attrited Customer,52,M,3,Uneducated,Unknown,$120K +,Blue,46,2,4,4,13354.0,0,13354.0,0.018,1097,28,0.077,0.0,1,51-60
+814483608,Attrited Customer,47,F,4,Graduate,Divorced,Less than $40K,Blue,42,1,3,3,5798.0,2517,3281.0,0.58,1860,43,0.433,0.434,1,41-50
+715514133,Attrited Customer,44,F,4,Graduate,Married,Less than $40K,Blue,31,3,3,4,2184.0,0,2184.0,0.671,1973,42,0.556,0.0,1,41-50
+772922883,Attrited Customer,41,M,3,Unknown,Married,$80K - $120K,Blue,22,3,3,4,20543.0,0,20543.0,0.547,1874,42,0.615,0.0,1,41-50
+713333433,Attrited Customer,49,M,3,Uneducated,Unknown,$60K - $80K,Blue,41,3,4,4,18075.0,0,18075.0,0.531,1477,30,0.5,0.0,1,41-50
+787921383,Attrited Customer,53,M,0,High School,Single,$120K +,Silver,44,2,4,4,34516.0,2297,32219.0,0.416,1461,43,0.536,0.067,1,51-60
+720551733,Attrited Customer,46,F,4,Doctorate,Married,Unknown,Blue,26,3,3,6,15195.0,0,15195.0,0.726,2631,41,0.64,0.0,1,41-50
+716317458,Attrited Customer,51,F,2,Post-Graduate,Single,Less than $40K,Blue,36,3,3,3,4281.0,0,4281.0,0.447,1723,44,0.375,0.0,1,51-60
+717035283,Attrited Customer,46,M,1,Graduate,Single,$60K - $80K,Blue,37,2,3,4,2445.0,848,1597.0,0.771,2216,39,0.56,0.347,1,41-50
+718110858,Attrited Customer,42,M,4,Unknown,Married,$40K - $60K,Blue,36,2,3,5,1606.0,0,1606.0,0.87,2628,41,0.64,0.0,1,41-50
+712693908,Attrited Customer,43,M,3,Graduate,Married,$120K +,Blue,31,2,4,1,13883.0,783,13100.0,0.749,1871,32,0.684,0.056,1,41-50
+809599158,Attrited Customer,48,M,4,Uneducated,Single,$80K - $120K,Silver,43,2,3,4,34516.0,0,34516.0,0.671,1626,28,0.4,0.0,1,41-50
+709798908,Attrited Customer,45,F,4,Unknown,Single,Less than $40K,Blue,32,3,3,4,2858.0,0,2858.0,1.058,2611,43,0.483,0.0,1,41-50
+769575783,Attrited Customer,49,F,3,College,Married,Less than $40K,Blue,41,3,3,3,1603.0,749,854.0,0.733,2644,43,0.483,0.467,1,41-50
+709563258,Attrited Customer,50,F,2,Uneducated,Single,Unknown,Blue,41,2,3,2,2751.0,2253,498.0,0.497,2108,40,0.481,0.819,1,41-50
+717308433,Attrited Customer,49,M,5,Uneducated,Unknown,$60K - $80K,Blue,43,3,3,3,1960.0,0,1960.0,0.493,2253,39,0.345,0.0,1,41-50
+720810783,Attrited Customer,54,F,2,Graduate,Married,Unknown,Blue,44,2,3,3,3781.0,1692,2089.0,0.791,2310,43,0.72,0.448,1,51-60
+720784833,Attrited Customer,48,F,3,Graduate,Single,Unknown,Blue,36,3,3,1,1630.0,1243,387.0,0.4,1884,43,0.303,0.763,1,41-50
+710552733,Attrited Customer,42,M,5,Unknown,Married,$60K - $80K,Blue,36,2,3,2,4963.0,0,4963.0,0.637,2335,40,0.429,0.0,1,41-50
+714384783,Attrited Customer,59,F,1,Graduate,Married,Less than $40K,Blue,36,2,3,3,2468.0,0,2468.0,0.5,2017,37,0.762,0.0,1,51-60
+713847858,Attrited Customer,49,F,3,Graduate,Divorced,Less than $40K,Blue,36,3,3,3,1438.3,0,1438.3,0.409,1849,43,0.536,0.0,1,41-50
+810875958,Attrited Customer,51,F,3,Graduate,Married,Less than $40K,Blue,46,1,4,3,2016.0,395,1621.0,0.711,2473,44,0.571,0.196,1,51-60
+709309308,Attrited Customer,50,M,3,College,Unknown,$80K - $120K,Blue,37,1,3,2,27186.0,0,27186.0,0.504,1704,34,0.478,0.0,1,41-50
+708798483,Attrited Customer,37,F,3,Unknown,Single,Unknown,Blue,24,2,3,2,2054.0,0,2054.0,0.87,2567,43,0.593,0.0,1,31-40
+718352358,Attrited Customer,49,F,3,Post-Graduate,Married,Less than $40K,Blue,35,3,3,2,1914.0,0,1914.0,0.677,2687,41,0.414,0.0,1,41-50
+820276908,Attrited Customer,42,F,4,College,Married,$40K - $60K,Blue,37,3,3,1,4139.0,0,4139.0,0.547,2232,41,0.464,0.0,1,41-50
+712038258,Attrited Customer,48,M,4,Unknown,Single,$80K - $120K,Blue,36,3,3,3,32838.0,1717,31121.0,0.995,2538,42,0.4,0.052,1,41-50
+712864683,Attrited Customer,42,F,3,Doctorate,Single,Less than $40K,Blue,30,2,3,3,1438.3,0,1438.3,0.373,1693,37,0.423,0.0,1,41-50
+713886333,Attrited Customer,47,M,2,High School,Married,$60K - $80K,Blue,39,2,3,1,18660.0,728,17932.0,0.403,1682,43,0.303,0.039,1,41-50
+769438608,Attrited Customer,48,F,1,Graduate,Married,Less than $40K,Blue,42,3,3,2,1942.0,860,1082.0,0.708,2522,42,0.312,0.443,1,41-50
+720867708,Attrited Customer,45,F,4,Graduate,Unknown,Less than $40K,Blue,33,1,3,2,1748.0,1103,645.0,0.739,2335,41,0.708,0.631,1,41-50
+712807758,Attrited Customer,47,F,3,Graduate,Single,Less than $40K,Blue,39,3,3,3,1438.3,0,1438.3,0.502,2476,32,0.778,0.0,1,41-50
+716625033,Attrited Customer,32,F,1,Graduate,Single,Less than $40K,Blue,36,3,3,6,2761.0,0,2761.0,1.047,2753,43,0.654,0.0,1,31-40
+708809283,Attrited Customer,41,F,4,Graduate,Divorced,$40K - $60K,Blue,33,1,3,1,10360.0,2517,7843.0,0.632,2414,28,0.273,0.243,1,41-50
+798041508,Attrited Customer,50,F,4,Graduate,Single,Less than $40K,Blue,44,2,3,2,3201.0,2517,684.0,0.445,1880,42,0.355,0.786,1,41-50
+779320008,Attrited Customer,43,M,3,College,Married,$80K - $120K,Blue,25,3,3,3,2900.0,2517,383.0,0.719,2180,31,0.409,0.868,1,41-50
+788095158,Attrited Customer,52,M,3,Uneducated,Married,$80K - $120K,Blue,44,3,3,3,11606.0,0,11606.0,0.797,2623,39,0.393,0.0,1,51-60
+709500183,Attrited Customer,46,F,3,College,Married,Less than $40K,Blue,36,2,3,4,1804.0,0,1804.0,0.537,2077,44,0.419,0.0,1,41-50
+718524783,Attrited Customer,40,M,3,High School,Unknown,$80K - $120K,Blue,34,1,3,4,29715.0,0,29715.0,0.399,2128,39,0.345,0.0,1,31-40
+712947333,Attrited Customer,54,F,4,Unknown,Married,Less than $40K,Blue,43,3,3,0,5139.0,0,5139.0,0.33,1653,44,0.692,0.0,1,51-60
+710674533,Attrited Customer,46,M,1,Uneducated,Married,$60K - $80K,Blue,34,3,3,4,15060.0,0,15060.0,0.545,1611,42,0.4,0.0,1,41-50
+713283933,Attrited Customer,42,M,2,Uneducated,Married,$40K - $60K,Blue,30,1,3,3,3032.0,0,3032.0,0.429,2273,44,0.517,0.0,1,41-50
+715609533,Attrited Customer,47,F,3,Unknown,Single,Less than $40K,Blue,35,1,3,3,5398.0,0,5398.0,0.621,1887,36,0.333,0.0,1,41-50
+713696808,Attrited Customer,46,F,3,High School,Married,Less than $40K,Blue,39,3,3,0,1801.0,316,1485.0,0.494,2252,42,0.4,0.175,1,41-50
+716600733,Attrited Customer,47,F,4,Unknown,Married,Less than $40K,Blue,36,3,3,3,2033.0,228,1805.0,0.904,2572,43,0.72,0.112,1,41-50
+821724483,Attrited Customer,48,M,4,Unknown,Single,$40K - $60K,Blue,43,2,3,2,11272.0,1744,9528.0,0.347,1455,34,0.214,0.155,1,41-50
+779841483,Attrited Customer,55,F,1,Doctorate,Married,Unknown,Blue,39,1,3,3,12972.0,1424,11548.0,0.525,2238,36,0.2,0.11,1,51-60
+709112508,Attrited Customer,42,F,3,College,Single,Less than $40K,Blue,36,3,3,4,3802.0,1300,2502.0,0.627,2165,36,0.385,0.342,1,41-50
+715194183,Attrited Customer,53,F,2,Unknown,Single,Less than $40K,Blue,36,3,3,4,2575.0,411,2164.0,0.833,2423,43,0.593,0.16,1,51-60
+780292683,Attrited Customer,55,M,1,Uneducated,Single,$120K +,Blue,41,3,4,4,24542.0,2354,22188.0,0.314,984,24,0.263,0.096,1,51-60
+708731658,Attrited Customer,53,F,0,High School,Married,Less than $40K,Blue,41,3,3,4,1438.3,0,1438.3,0.387,1587,42,0.448,0.0,1,51-60
+709199358,Attrited Customer,60,M,1,Uneducated,Married,Less than $40K,Blue,36,1,3,4,3316.0,0,3316.0,0.372,1684,19,0.188,0.0,1,51-60
+714614133,Attrited Customer,53,F,3,Unknown,Married,Less than $40K,Blue,36,3,3,3,2819.0,0,2819.0,0.4,2128,39,0.444,0.0,1,51-60
+775152708,Attrited Customer,49,M,3,Post-Graduate,Unknown,$80K - $120K,Blue,39,2,3,4,20769.0,901,19868.0,0.371,1835,43,0.72,0.043,1,41-50
+809565183,Attrited Customer,52,F,1,Graduate,Single,Less than $40K,Blue,47,3,3,4,1842.0,625,1217.0,0.729,2650,43,0.483,0.339,1,51-60
+720941433,Attrited Customer,53,F,3,High School,Married,Less than $40K,Blue,41,3,3,2,1547.0,0,1547.0,0.845,2312,43,0.303,0.0,1,51-60
+713952558,Attrited Customer,53,F,3,Doctorate,Single,Unknown,Blue,43,3,3,2,1790.0,1474,316.0,0.595,2128,40,0.429,0.823,1,51-60
+771733608,Attrited Customer,47,F,1,Graduate,Married,$40K - $60K,Blue,35,3,3,5,1438.3,0,1438.3,0.809,2276,40,0.538,0.0,1,41-50
+710015733,Attrited Customer,41,F,1,Doctorate,Divorced,Less than $40K,Blue,30,3,3,1,2029.0,621,1408.0,1.001,3142,37,0.85,0.306,1,41-50
+713526258,Attrited Customer,47,M,3,Uneducated,Single,$120K +,Blue,36,3,3,4,34516.0,0,34516.0,0.517,2020,33,0.375,0.0,1,41-50
+708692583,Attrited Customer,44,F,2,High School,Single,Less than $40K,Blue,31,3,3,3,1506.0,168,1338.0,0.671,2312,44,0.467,0.112,1,41-50
+716643033,Attrited Customer,41,F,2,Graduate,Married,Less than $40K,Blue,31,3,3,3,2580.0,2137,443.0,1.056,2981,40,0.481,0.828,1,41-50
+789923058,Attrited Customer,53,F,1,High School,Married,$40K - $60K,Blue,44,3,3,3,1816.0,0,1816.0,0.884,2474,44,0.692,0.0,1,51-60
+778289883,Attrited Customer,42,F,2,Graduate,Unknown,Less than $40K,Blue,32,3,3,3,1507.0,0,1507.0,0.806,2528,41,0.64,0.0,1,41-50
+714581358,Attrited Customer,48,F,3,Graduate,Single,Less than $40K,Blue,43,3,3,4,1502.0,0,1502.0,0.529,2204,36,0.44,0.0,1,41-50
+772394883,Attrited Customer,60,F,1,Uneducated,Single,Unknown,Blue,50,3,6,3,7359.0,0,7359.0,0.768,2869,43,0.433,0.0,1,51-60
+767668908,Attrited Customer,46,F,3,Graduate,Married,Unknown,Blue,40,3,4,3,13095.0,1836,11259.0,0.432,1552,32,0.185,0.14,1,41-50
+714246333,Attrited Customer,58,F,4,High School,Married,Unknown,Blue,48,1,4,3,5396.0,1803,3593.0,0.493,2107,39,0.393,0.334,1,51-60
+802673508,Attrited Customer,57,M,2,Graduate,Single,$120K +,Blue,51,3,5,3,8760.0,0,8760.0,0.726,2460,39,0.56,0.0,1,51-60
+708949908,Attrited Customer,50,M,1,Graduate,Divorced,$120K +,Blue,42,1,3,2,1656.0,0,1656.0,0.626,2073,44,0.833,0.0,1,41-50
+714192933,Attrited Customer,55,F,3,Graduate,Single,Less than $40K,Blue,36,3,3,5,2060.0,0,2060.0,0.251,1976,44,0.257,0.0,1,51-60
+772442883,Attrited Customer,51,F,4,Graduate,Married,Unknown,Blue,41,2,3,5,3853.0,696,3157.0,0.882,2443,38,0.583,0.181,1,51-60
+721527858,Attrited Customer,52,F,3,High School,Married,Less than $40K,Blue,40,3,5,1,2003.0,1735,268.0,0.855,2343,42,0.355,0.866,1,51-60
+809849358,Attrited Customer,55,F,2,Graduate,Divorced,Less than $40K,Blue,50,2,6,3,1720.0,0,1720.0,0.707,2719,36,0.44,0.0,1,51-60
+809559933,Attrited Customer,45,F,3,Graduate,Married,Unknown,Blue,40,3,5,3,4462.0,706,3756.0,0.886,2526,41,0.414,0.158,1,41-50
+711527508,Attrited Customer,46,F,3,High School,Married,$40K - $60K,Blue,34,2,3,2,8583.0,0,8583.0,0.358,1794,31,0.292,0.0,1,41-50
+711144183,Attrited Customer,55,F,3,Graduate,Married,Unknown,Blue,45,1,3,1,2815.0,1848,967.0,0.563,2618,29,0.45,0.656,1,51-60
+719073483,Attrited Customer,45,M,3,Uneducated,Married,$80K - $120K,Blue,38,3,3,3,9234.0,0,9234.0,0.629,2586,44,0.257,0.0,1,41-50
+713158083,Attrited Customer,56,M,2,High School,Single,$120K +,Blue,46,2,4,4,7327.0,0,7327.0,0.598,2185,41,0.864,0.0,1,51-60
+711531858,Attrited Customer,48,F,4,Unknown,Married,Less than $40K,Blue,41,3,3,3,2447.0,1267,1180.0,0.449,2132,37,0.37,0.518,1,41-50
+714477408,Attrited Customer,36,F,3,High School,Married,Less than $40K,Blue,36,3,3,3,2977.0,1340,1637.0,0.507,2201,39,0.345,0.45,1,31-40
+711801933,Attrited Customer,54,F,4,High School,Single,$40K - $60K,Blue,36,3,3,4,1438.3,0,1438.3,0.641,2092,42,0.68,0.0,1,51-60
+716282208,Attrited Customer,54,F,2,Post-Graduate,Married,Less than $40K,Blue,48,3,6,3,1638.0,0,1638.0,0.163,1702,36,0.125,0.0,1,51-60
+827451333,Attrited Customer,54,F,2,Uneducated,Married,Less than $40K,Blue,50,3,6,3,2247.0,0,2247.0,0.641,2615,37,0.423,0.0,1,51-60
+717202083,Attrited Customer,46,M,2,Unknown,Single,$80K - $120K,Blue,34,2,3,3,7077.0,0,7077.0,0.838,2619,41,0.519,0.0,1,41-50
+711507783,Attrited Customer,54,F,2,Doctorate,Single,Less than $40K,Blue,42,3,4,3,1694.0,0,1694.0,0.354,1930,41,0.519,0.0,1,51-60
+714503433,Attrited Customer,57,F,2,Doctorate,Married,Less than $40K,Blue,36,1,3,3,1615.0,950,665.0,0.507,2212,43,0.387,0.588,1,51-60
+717252483,Attrited Customer,57,F,2,Graduate,Married,Less than $40K,Blue,41,3,3,3,2796.0,0,2796.0,0.729,2196,35,0.75,0.0,1,51-60
+712046808,Attrited Customer,49,F,3,Doctorate,Divorced,Unknown,Blue,42,1,3,3,3802.0,1558,2244.0,0.489,2003,43,0.593,0.41,1,41-50
+708888633,Attrited Customer,52,M,3,Doctorate,Married,$80K - $120K,Blue,36,2,3,3,3022.0,895,2127.0,0.95,2724,38,0.9,0.296,1,51-60
+718653333,Attrited Customer,45,F,2,College,Single,Less than $40K,Blue,33,1,3,3,1833.0,0,1833.0,0.549,2037,31,0.292,0.0,1,41-50
+718148358,Attrited Customer,50,F,3,High School,Married,Less than $40K,Blue,36,2,3,3,1572.0,0,1572.0,0.74,2447,41,0.577,0.0,1,41-50
+809626983,Attrited Customer,48,F,3,High School,Married,Less than $40K,Blue,43,3,3,3,1670.0,0,1670.0,0.707,2790,37,0.321,0.0,1,41-50
+817607358,Attrited Customer,44,F,2,High School,Unknown,Unknown,Gold,35,3,3,3,34516.0,0,34516.0,0.767,2227,44,0.63,0.0,1,41-50
+798972183,Attrited Customer,49,F,2,Unknown,Single,$40K - $60K,Blue,43,1,3,2,1643.0,526,1117.0,0.829,2520,38,0.583,0.32,1,41-50
+779279883,Attrited Customer,60,F,2,High School,Married,Less than $40K,Blue,42,3,3,2,1438.3,0,1438.3,0.061,1628,42,0.077,0.0,1,51-60
+712953483,Attrited Customer,64,F,0,Graduate,Single,Less than $40K,Blue,36,1,3,4,1682.0,0,1682.0,0.75,1811,39,0.5,0.0,1,61-75
+718263108,Attrited Customer,44,F,3,Unknown,Divorced,Less than $40K,Blue,32,3,3,2,1693.0,1457,236.0,0.919,2829,42,0.615,0.861,1,41-50
+714319233,Attrited Customer,44,M,5,Graduate,Divorced,$60K - $80K,Blue,36,3,3,6,6538.0,0,6538.0,0.556,2132,33,0.571,0.0,1,41-50
+709232808,Attrited Customer,44,F,3,Unknown,Divorced,$40K - $60K,Blue,34,2,3,2,1689.0,0,1689.0,0.202,1588,37,0.276,0.0,1,41-50
+711474333,Attrited Customer,57,F,2,Uneducated,Single,Less than $40K,Blue,51,3,5,2,1614.0,0,1614.0,0.241,1690,38,0.357,0.0,1,51-60
+716122008,Attrited Customer,44,F,3,Unknown,Married,Less than $40K,Blue,35,3,3,2,1855.0,0,1855.0,0.988,2544,27,0.929,0.0,1,41-50
+708867408,Attrited Customer,52,M,2,High School,Married,$60K - $80K,Blue,40,3,4,2,23128.0,1958,21170.0,0.604,2050,35,0.667,0.085,1,51-60
+711323283,Attrited Customer,57,M,2,Uneducated,Married,$60K - $80K,Blue,41,3,3,2,2527.0,1030,1497.0,0.714,2767,43,0.387,0.408,1,51-60
+809440008,Attrited Customer,39,F,2,High School,Single,Unknown,Blue,34,3,3,1,2069.0,550,1519.0,0.783,2716,43,0.433,0.266,1,31-40
+711237633,Attrited Customer,49,M,0,Graduate,Married,$60K - $80K,Blue,29,3,3,3,1460.0,0,1460.0,0.738,2329,36,0.5,0.0,1,41-50
+718913358,Attrited Customer,36,M,2,Graduate,Single,Less than $40K,Blue,36,3,3,3,4225.0,2517,1708.0,0.662,2659,43,0.387,0.596,1,31-40
+769883733,Attrited Customer,46,M,3,Post-Graduate,Single,$40K - $60K,Blue,40,3,4,2,2344.0,0,2344.0,0.412,2098,31,0.409,0.0,1,41-50
+721480158,Attrited Customer,50,F,2,Unknown,Married,Less than $40K,Blue,43,3,3,2,1438.3,910,528.3,0.66,2370,44,0.467,0.633,1,41-50
+766021083,Attrited Customer,55,F,1,College,Single,Less than $40K,Blue,48,3,5,3,2114.0,546,1568.0,0.619,2578,42,0.75,0.258,1,51-60
+717072108,Attrited Customer,50,F,2,Unknown,Single,$40K - $60K,Blue,36,3,3,2,2762.0,0,2762.0,0.684,2571,44,0.419,0.0,1,41-50
+719577258,Attrited Customer,43,F,2,Uneducated,Divorced,Less than $40K,Blue,30,3,3,4,6811.0,0,6811.0,0.677,1937,39,0.56,0.0,1,41-50
+817108083,Attrited Customer,55,M,3,Unknown,Single,$60K - $80K,Blue,35,3,3,3,14266.0,1341,12925.0,0.309,1625,34,0.36,0.094,1,51-60
+803115258,Attrited Customer,62,M,0,College,Unknown,$40K - $60K,Blue,56,2,6,2,3477.0,0,3477.0,0.436,2113,40,0.739,0.0,1,61-75
+809811858,Attrited Customer,43,M,5,High School,Unknown,$80K - $120K,Blue,38,3,3,2,1504.0,0,1504.0,0.987,2530,43,0.344,0.0,1,41-50
+826709658,Attrited Customer,45,F,3,Graduate,Divorced,$40K - $60K,Blue,41,1,3,3,1477.0,0,1477.0,0.768,2214,43,0.654,0.0,1,41-50
+757194408,Attrited Customer,43,M,3,College,Married,$60K - $80K,Blue,36,2,3,3,1438.3,0,1438.3,0.539,1707,38,1.111,0.0,1,41-50
+712982808,Attrited Customer,47,M,2,Doctorate,Divorced,$80K - $120K,Blue,32,1,3,3,1438.3,0,1438.3,0.454,2388,42,0.5,0.0,1,41-50
+708373083,Attrited Customer,40,F,4,Unknown,Married,$40K - $60K,Blue,30,1,3,4,3356.0,2517,839.0,0.583,2032,39,0.147,0.75,1,31-40
+712552608,Attrited Customer,46,F,3,Graduate,Married,Less than $40K,Blue,34,3,3,1,1438.3,0,1438.3,0.714,2658,43,0.654,0.0,1,41-50
+708108333,Attrited Customer,47,F,3,Graduate,Married,Unknown,Blue,36,3,3,1,5590.0,0,5590.0,0.01,1507,32,0.0,0.0,1,41-50
+767553333,Attrited Customer,45,M,3,Graduate,Single,$80K - $120K,Blue,39,1,3,3,8383.0,0,8383.0,0.809,2600,44,0.517,0.0,1,41-50
+714013983,Attrited Customer,37,F,4,Post-Graduate,Married,Less than $40K,Blue,36,3,3,3,1586.0,0,1586.0,0.497,2109,41,0.414,0.0,1,31-40
+815539233,Attrited Customer,54,M,4,High School,Single,$80K - $120K,Silver,49,1,3,4,34516.0,214,34302.0,0.0,1201,22,0.0,0.006,1,51-60
+711399408,Attrited Customer,34,F,2,Graduate,Divorced,Unknown,Blue,25,2,3,4,12373.0,0,12373.0,0.71,2462,40,0.429,0.0,1,31-40
+710410158,Attrited Customer,49,M,2,Graduate,Unknown,$80K - $120K,Blue,38,3,4,3,34516.0,0,34516.0,0.482,1592,35,0.346,0.0,1,41-50
+771422883,Attrited Customer,57,F,3,Graduate,Married,Less than $40K,Blue,45,1,4,2,1759.0,186,1573.0,0.756,2705,35,0.522,0.106,1,51-60
+711201108,Attrited Customer,37,F,3,High School,Single,Less than $40K,Blue,29,3,3,3,1653.0,0,1653.0,0.517,2284,35,0.296,0.0,1,31-40
+711487533,Attrited Customer,47,F,3,Unknown,Married,Less than $40K,Blue,38,3,3,2,1438.3,0,1438.3,0.198,1687,38,0.226,0.0,1,41-50
+714520233,Attrited Customer,59,F,0,Graduate,Married,Less than $40K,Blue,36,2,3,2,1708.0,0,1708.0,0.443,1992,38,0.357,0.0,1,51-60
+717725433,Attrited Customer,54,F,2,Graduate,Married,$40K - $60K,Blue,44,3,4,2,1606.0,0,1606.0,0.763,2258,37,0.609,0.0,1,51-60
+715950483,Attrited Customer,39,F,1,Uneducated,Married,$40K - $60K,Blue,27,3,3,3,2821.0,725,2096.0,0.704,2397,35,0.296,0.257,1,31-40
+713736333,Attrited Customer,41,F,3,Uneducated,Married,$40K - $60K,Blue,36,1,3,4,3606.0,0,3606.0,0.37,1829,41,0.519,0.0,1,41-50
+712593933,Attrited Customer,40,M,3,Doctorate,Married,$40K - $60K,Blue,36,3,3,4,2313.0,0,2313.0,0.673,2249,42,0.312,0.0,1,31-40
+710500983,Attrited Customer,43,M,2,College,Single,$80K - $120K,Blue,34,2,4,3,4617.0,1035,3582.0,0.36,1779,35,0.591,0.224,1,41-50
+713920158,Attrited Customer,41,F,3,Uneducated,Unknown,Unknown,Blue,36,2,3,1,13733.0,0,13733.0,0.325,1591,30,0.875,0.0,1,41-50
+712677633,Attrited Customer,42,F,0,Uneducated,Divorced,Unknown,Blue,31,3,3,4,2712.0,0,2712.0,0.724,2307,28,0.474,0.0,1,41-50
+713381433,Attrited Customer,38,F,1,High School,Married,Less than $40K,Blue,28,3,3,3,4196.0,731,3465.0,0.485,1868,30,0.2,0.174,1,31-40
+720507108,Attrited Customer,42,F,3,College,Married,Less than $40K,Blue,28,3,3,2,1601.0,0,1601.0,0.63,2339,41,0.414,0.0,1,41-50
+716751858,Attrited Customer,34,F,1,Unknown,Married,Less than $40K,Blue,36,2,3,3,2401.0,496,1905.0,0.647,2597,40,0.379,0.207,1,31-40
+715847058,Attrited Customer,59,F,2,Uneducated,Divorced,Less than $40K,Blue,36,3,3,3,1863.0,1853,10.0,0.829,2462,40,0.29,0.995,1,51-60
+712562433,Attrited Customer,48,F,2,Unknown,Married,Less than $40K,Blue,30,3,3,3,4204.0,0,4204.0,0.703,2316,43,0.536,0.0,1,41-50
+713717283,Attrited Customer,40,F,3,Unknown,Single,$40K - $60K,Blue,29,3,3,3,2473.0,2332,141.0,0.293,1738,32,0.455,0.943,1,31-40
+708384033,Attrited Customer,45,F,3,Uneducated,Married,Less than $40K,Blue,35,3,3,3,2745.0,2463,282.0,0.643,2466,39,0.345,0.897,1,41-50
+718090233,Attrited Customer,56,F,3,Graduate,Single,Unknown,Blue,36,3,3,3,10016.0,1872,8144.0,0.735,2804,37,0.542,0.187,1,51-60
+714514008,Attrited Customer,38,F,1,Graduate,Married,Unknown,Blue,29,3,3,3,8953.0,0,8953.0,0.403,1982,43,0.303,0.0,1,31-40
+720592533,Attrited Customer,41,M,4,Graduate,Unknown,$80K - $120K,Blue,31,3,3,2,19782.0,868,18914.0,0.808,2535,44,0.467,0.044,1,41-50
+778207083,Attrited Customer,53,M,4,Uneducated,Single,$80K - $120K,Blue,44,3,3,2,11561.0,2189,9372.0,0.742,2153,39,0.5,0.189,1,51-60
+712130058,Attrited Customer,44,F,4,Uneducated,Single,Unknown,Blue,36,3,3,4,8075.0,317,7758.0,0.585,2415,41,0.577,0.039,1,41-50
+708276183,Attrited Customer,52,F,3,Post-Graduate,Married,Less than $40K,Blue,45,2,4,1,1760.0,0,1760.0,0.046,1554,35,0.029,0.0,1,51-60
+802460433,Attrited Customer,57,F,3,High School,Married,Unknown,Blue,51,2,5,2,1438.3,0,1438.3,0.733,2607,37,0.609,0.0,1,51-60
+812671758,Attrited Customer,47,F,5,Doctorate,Married,Unknown,Blue,42,3,5,3,4345.0,2176,2169.0,0.752,2458,44,0.467,0.501,1,41-50
+793630083,Attrited Customer,39,M,2,High School,Single,$120K +,Blue,33,1,3,4,1726.0,1476,250.0,0.371,1804,34,0.259,0.855,1,31-40
+720761208,Attrited Customer,59,M,1,College,Single,$120K +,Blue,47,2,4,2,4789.0,357,4432.0,0.798,2496,41,0.64,0.075,1,51-60
+816476658,Attrited Customer,54,F,2,Unknown,Married,Unknown,Blue,49,2,4,3,1812.0,1798,14.0,0.735,2921,44,0.692,0.992,1,51-60
+711800658,Attrited Customer,42,F,3,High School,Single,Less than $40K,Blue,36,2,3,3,2145.0,0,2145.0,0.577,2465,42,0.355,0.0,1,41-50
+712853358,Attrited Customer,39,F,3,High School,Unknown,Less than $40K,Blue,36,2,3,2,1817.0,0,1817.0,0.583,2216,44,0.833,0.0,1,31-40
+718806783,Attrited Customer,46,F,3,Uneducated,Married,Unknown,Blue,36,2,3,1,2872.0,357,2515.0,0.869,2629,41,0.64,0.124,1,41-50
+714630858,Attrited Customer,36,F,1,Uneducated,Unknown,Less than $40K,Blue,36,2,3,2,1470.0,458,1012.0,0.543,2383,39,0.444,0.312,1,31-40
+787339158,Attrited Customer,56,M,1,Graduate,Married,$80K - $120K,Blue,50,3,6,3,8688.0,0,8688.0,0.426,2361,41,0.464,0.0,1,51-60
+771594783,Attrited Customer,56,F,1,College,Married,Unknown,Blue,44,2,4,4,1438.3,0,1438.3,0.859,2264,37,0.423,0.0,1,51-60
+710662158,Existing Customer,41,M,4,Unknown,Married,$120K +,Blue,34,1,3,3,34516.0,2517,31999.0,0.434,2051,41,1.05,0.073,0,41-50
+781137783,Attrited Customer,40,M,3,High School,Unknown,Less than $40K,Blue,33,1,3,4,2420.0,191,2229.0,0.818,2478,43,0.433,0.079,1,31-40
+709745508,Attrited Customer,58,F,2,Unknown,Divorced,$40K - $60K,Blue,47,1,4,3,2295.0,0,2295.0,0.376,2140,40,0.429,0.0,1,51-60
+785237958,Attrited Customer,45,M,5,College,Married,$60K - $80K,Blue,39,2,3,3,3439.0,0,3439.0,0.825,2661,35,0.296,0.0,1,41-50
+712660308,Attrited Customer,44,F,1,High School,Single,Less than $40K,Blue,36,2,3,3,1895.0,0,1895.0,0.736,2472,40,0.429,0.0,1,41-50
+711683358,Attrited Customer,46,F,3,High School,Unknown,Less than $40K,Blue,41,2,3,4,3313.0,0,3313.0,0.561,2135,44,0.419,0.0,1,41-50
+713931258,Attrited Customer,56,F,3,Graduate,Married,Less than $40K,Blue,45,2,3,4,1438.3,0,1438.3,0.315,1988,42,0.355,0.0,1,51-60
+708190158,Attrited Customer,38,F,3,High School,Single,Less than $40K,Blue,26,2,3,0,2920.0,2426,494.0,0.983,2750,41,0.367,0.831,1,31-40
+772271508,Attrited Customer,46,F,3,Uneducated,Single,Unknown,Blue,35,2,3,3,1706.0,0,1706.0,0.726,2320,42,0.448,0.0,1,41-50
+778191933,Attrited Customer,45,M,3,Uneducated,Single,$120K +,Blue,35,2,3,5,7135.0,2517,4618.0,0.631,2305,42,0.448,0.353,1,41-50
+715773783,Attrited Customer,44,F,2,Graduate,Single,$40K - $60K,Blue,35,2,3,4,4196.0,561,3635.0,0.741,2558,38,0.652,0.134,1,41-50
+750995508,Attrited Customer,41,M,3,Unknown,Single,$60K - $80K,Blue,32,1,3,3,4697.0,1046,3651.0,0.313,1679,29,0.318,0.223,1,41-50
+709222008,Attrited Customer,41,M,3,Unknown,Single,$80K - $120K,Blue,32,1,3,4,4742.0,2221,2521.0,0.464,2422,41,0.464,0.468,1,41-50
+779183958,Attrited Customer,45,F,2,Graduate,Single,Less than $40K,Blue,33,1,3,4,1492.0,0,1492.0,0.502,2469,38,0.267,0.0,1,41-50
+719299533,Attrited Customer,55,F,1,Unknown,Unknown,Less than $40K,Blue,36,2,3,2,3626.0,795,2831.0,0.896,2954,42,0.556,0.219,1,51-60
+741517458,Attrited Customer,49,F,4,Graduate,Married,Less than $40K,Blue,42,2,4,3,2575.0,2517,58.0,0.31,1874,40,0.739,0.977,1,41-50
+714276408,Attrited Customer,52,F,3,Uneducated,Single,$40K - $60K,Blue,36,2,3,3,1915.0,1445,470.0,0.374,2264,39,0.56,0.755,1,51-60
+711232608,Attrited Customer,47,F,5,High School,Single,Less than $40K,Blue,36,2,3,2,1636.0,0,1636.0,0.694,2235,35,0.591,0.0,1,41-50
+807379833,Attrited Customer,48,M,3,Graduate,Divorced,$40K - $60K,Blue,43,2,3,3,9104.0,145,8959.0,0.765,2563,34,0.417,0.016,1,41-50
+787482033,Attrited Customer,60,M,1,High School,Divorced,$80K - $120K,Blue,48,1,5,3,28930.0,0,28930.0,0.645,2251,27,0.227,0.0,1,51-60
+809464608,Attrited Customer,47,F,3,High School,Married,Unknown,Silver,31,3,3,2,34516.0,2517,31999.0,0.618,2691,42,0.5,0.073,1,41-50
+712157958,Attrited Customer,44,M,3,High School,Married,$80K - $120K,Blue,36,1,3,2,10908.0,0,10908.0,0.983,4883,42,0.5,0.0,1,41-50
