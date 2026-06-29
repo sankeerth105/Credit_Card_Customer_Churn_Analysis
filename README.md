@@ -255,21 +255,6 @@ Visuals
 
 ---
 
-# 📷 Dashboard Preview
-
-### Executive Summary
-
-> *(Insert Screenshot Here)*
-
-### Customer Behavior Analysis
-
-> *(Insert Screenshot Here)*
-
-### High Risk Customer Analysis
-
-> *(Insert Screenshot Here)*
-
----
 
 # 🚀 Skills Demonstrated
 
@@ -300,11 +285,9 @@ This project enables the bank to:
 
 # 📬 Contact
 
-**Name:** Your Name
+**Name:** Sankeerth Nakshatram
 
-**LinkedIn:** https://linkedin.com/in/your-profile
-
-**Email:** your.email@example.com
+**Email:** sankeerthnakshatram996@gmail.com
 
 ---
 
